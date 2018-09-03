@@ -1,0 +1,17 @@
+Đầm Ugden
+Thanh tẩy Sự Biến Chất
+Diệt Trùm
+^r(Tên nhiệm vụ: Cleanse the Corruption)^- ^n^nHiện thân của Mogdrogen đã xuất hiện trước khi bạn vào Đầm Ugden ^r[Ugdenbog]^-. Như một vị thần của muôn thú hiện diện khắp mọi nơi, Ông ta đã yêu cầu bạn giúp đỡ ông ta trong việc thanh tẩy sự biến chất khủng khiếp đang phát triển trong Khu Rừng Cổ Xưa ^r[Ancient Grove]^- ở Đầm Ugden.{^n}{^n}Chỉ khi nào Trung Tâm của Khu Rừng ^r[Heart of the Forest]^- được thanh lọc thì nó mới có thể tự chữa lành vết thương do bọn Aetherial và Ch'thonic gây ra.{^n}{^n}Nhiệm vu này cần một Chìa Khóa Xương ^p[Skeleton Key]^-.
+
+Thanh tẩy Khu Rừng Cổ Xưa
+
+Trở về gặp Mogdrogen
+^r(Tên nhiệm vụ: Cleanse the Corruption)^- ^n^nBạn đã Thanh tẩy sự biến chất bên trong trung tâm của Khu Rừng Cổ Xưa.{^n}{^n}Trở về gặp Mogdrogen ở Đầm Ugden ^r[Ugdenbog]^- và báo lại về thành công của bạn.
+Nói chuyện với Mogdrogen ở Đầm Ugden
+
+
+
+
+
+
+

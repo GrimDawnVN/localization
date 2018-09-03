@@ -1,0 +1,106 @@
+Bảng Truy Nã của Hội Phù Thủy
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã thắng lợi trở về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đang làm một nhiệm vụ truy nã khác cho Hội Phù Thủy.
+Rời khỏi Bảng Truy nã.
+Hội Phù Thủy xem bạn như một đồng minh.{^n}{^n}Nếu bạn muốn tiếp tục có quan hệ tốt với hội, hãy thực hiện thêm nhiều nhiệm vụ.
+Xem qua Bảng Truy nã.
+Bạn đã làm hết những gì Hội Phù Thủy yêu cầu trong lần này.
+Rời khỏi Bảng Truy nã.
+Xem qua Bảng Truy nã.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rời khỏi Bảng Truy nã.
+Giáo phái Wendigo đã cản trở Hội Phù Thủy quá nhiều.{^n}{^n}Tiêu diệt bọn Wendigo Cổ xưa ở Đầm Ugden có thể làm chậm những đợt tấn công của chúng trong một thời gian.{^n}{^n}Nỗ lực của bạn sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Hội Phù Thủy cần trợ giúp để duy trì sự cân bằng ở Đầm Ugden.{^n}{^n}Số lượng của bọn Basilisks đã phát triển ngoài tầm kiểm soát. Những tên nguy hiểm nhất trong số chúng phải bị tiêu diệt. Đã đến lúc đi săn.{^n}{^n}Tiêu diệt bọn Venomgaze Basilisks ở Đầm Ugden.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho nhiệm vụ này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Các loài thực vật ăn thịt của Đầm Ugden đang phát triển ngoài tầm kiểm soát.{^n}{^n}Giúp Hội Phù Thủy khôi phục lại sự cân bằng bằng cách phá hủy những đóa Hoa Có Độc của chúng.{^n}{^n}Hội Phù Thủy đã dành một ít sắt làm phần thưởng cho nhiệm vụ này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Thánh Mẫu Malostria đã thấy một sinh vật khủng khiếp được tạo ra bởi bọn Aetherial tàn phá khắp Ngoại Vi Malmouth{^n}{^n}Sinh vật này đã giết chết một số lính mới đang cố gắng rời khỏi thành phố.{^n}{^n}Tiêu diệt con quái vật tên là Vanoxxis Bile ở Ngoại Vi Malmouth, vì tương lai của Hội Phù Thủy.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho nhiệm vụ này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Một sinh vật Aetherial tên là Crognoth đang ngăn cản những nỗ lực tuyển quân của Hội Phù Thủy ở Malmouth.{^n}{^n}Tìm Crognoth ở Quận Nến khu Malmouth và tiêu diệt nó.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho nhiệm vụ này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Sự mất cân bằng đã lan rộng và vượt ra khỏi phạm vi Đầm Ugden.{^n}{^n}Đã có báo cáo về một sinh vật khổng lồ tấn công các thành viên của hội ở Rừng Âm U.{^n}{^n}Tiêu diệt nó vì lợi ích của hội.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho nhiệm vụ này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Hội Phù Thủy cần trợ giúp để duy trì sự cân bằng ở Đầm Ugden.{^n}{^n}Bất chấp những nỗ lực của chúng ta, mối đe dọa từ bọn Basilisks vẫn tiếp tục phát triển.{^n}{^n}Có lẽ đã đến lúc chúng ta ra một đòn chính xác hơn. {^n}{^n}Tìm con thú tên là Silancar, ở trung tâm của Đầm Ugden và tiêu diệt nó.{^n}{^n}Giết chết tên quái vật này sẽ được thưởng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Chillpincer đang phát triển và đẻ trứng ở phía bắc Mỏ Barrowholm. {^n}{^n}Nếu không bị kiểm soát, nó có thể gây hậu quả nghiêm trọng đối với hệ sinh thái và sự an toàn của chúng ta. Chillpincer phải bị giết...{^n}{^n}Giết chết tên quái vật này sẽ được thưởng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Bọn Wendigo là tai họa đối với Đầm Ugden.{^n}{^n}Để bảo vệ vùng đất này chúng ta phải tiếp tục chiến đấu chống lại thứ tai họa này. {^n}{^n}tìm tên Wendigo gọi là Vagarroth, ở một số địa điểm thực hiện nghi lễ xung quanh Đầm Ugden, và tiêu diệt hắn.{^n}{^n}Giết chết tên quái vật này sẽ được thưởng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Hội Phù Thủy đang tìm kiếm một thánh vật đặc biệt để hỗ trợ họ trong việc thực hiện các nghi thức. {^n}{^n}Những tên Mistborn trolls ở Đồi Tan Tác đã học được nghệ thuật chế tạo Bùa Mistborn, thứ mà những shaman của chúng sử dụng để thi triển một số ma thuật đơn giản. {^n}{^n}Hội Phù Thủy muốn nghiên cứu những ma thuật này để thực hiện một số mục đích riêng của họ. Để đền bù, Hội Phù Thủy sẽ nhượng lại một số Máu của Ch'thon mà họ đã thu thập được.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Con quái thú Carraxus Bẩn Thỉu từ lâu đã cản trở Hội Phù Thủy Đầm Ugden. {^n}{^n}Tìm hang ổ của nó ở vùng Đông Bắc của Rừng Âm U và giết Carraxus Bẩn Thỉu vì sự an toàn của Hội Phù Thủy.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho việc giết con quái thú này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Phù thủy Janaxia đã phản bội Hội Phù Thủy và theo phe bọn Wendigo.{^n}{^n}Cô ta không được phép tiếp tục con đường sai lầm này. {^n}{^n}Tìm túp lều của cô ta ở tận cùng phía Nam của Đầm Ugden và giết Janaxia, Kẻ phản bội.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho việc loại trừ kẻ phản bội này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Thực vật cổ xưa Sylvarria đã phát triển quá rộng và quá sâu. Rễ và tua của "cô ta" bây giờ đã xâm nhập toàn bộ Đầm Ugden.{^n}{^n}Tìm Sylvarria, trong Rễ Cây Mọc Ngầm, và diệt trừ "cô ta" để những thực vật khác có thể phát triển ở nơi đây.{^n}{^n}Nỗ lực của bạn sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Dường như không có gì an toàn trước sự tha hóa của bọn Chthonic.{^n}{^n}Một con Manticore cổ xưa tên Ragarroth là nạn nhân mới nhất của sự tha hóa từ bọn Chthonic và là mối đe dọa lớn cho sự cân bằng ở Đầm Ugden.{^n}{^n}Tìm nó trong Khu Rừng Cổ Xưa và trả lại yên bình cho vùng đất này.{^n}{^n}Hội Phù Thủy đã dành một số vật phẩm cung ứng cho nghi lễ của họ làm phần thưởng cho việc giải quyết mối nguy hại đối với thiên nhiên này.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Hội Phù Thủy xem bạn như một đồng minh.{^n}{^n}Nếu bạn muốn tiếp tục có quan hệ tốt với hội, hãy thực hiện thêm nhiều nhiệm vụ.
+
+Rời khỏi Bảng Truy nã.
+Hội Phù Thủy Đầm Ugden chưa tin tưởng để giao cho bạn xử lý những nhiệm vụ bí mật nhất của họ.{^n}{^n}Danh tiếng cần ở mức Tôn Trọng mới có thể xem Bảng Truy nã.
+Rời khỏi Bảng Truy nã.

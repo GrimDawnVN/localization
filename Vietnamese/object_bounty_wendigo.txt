@@ -1,0 +1,108 @@
+Bảng Truy Nã của Barrowholm
+Người dân Barrowholm không muốn dính liếu gì với bạn cả.
+Rời khỏi Bảng Truy nã.
+Bạn đã mang đủ nguyên liệu về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đã thắng lợi trở về, Truy nã thành công.
+Báo cáo lại.
+
+Rời khỏi Bảng Truy nã.
+Bạn đang làm một nhiệm vụ truy nã khác cho Barrowholm.
+Rời khỏi Bảng Truy nã.
+Bạn đã nhận được sự tin tưởng của giáo phái và như vậy bạn thể biết nhiều hơn về các chuyện bí mật của họ.
+Xem qua Bảng Truy nã.
+Bạn đã làm hết những gì Hội yêu cầu trong lần này.
+Rời khỏi Bảng Truy nã.
+Xem qua Bảng Truy nã.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rời khỏi Bảng Truy nã.
+Nhân danh Ravager yêu cầu án tử.{^n}{^n}Tấn công sâu vào Rìa Hư Không và Giới Hạn Minh Mẫn, tìm kiếm và giết những con quái thú được gọi là Oppressors. {^n}{^n}Bất cứ ai hoàn thành mục tiêu này sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nhân danh Ravager yêu cầu án tử.{^n}{^n}Thăm dò Rìa Hư Không, Giới Hạn Minh Mẫn và diệt sạch những tên gọi là Bloodkeepers.{^n}{^n}Bất cứ ai hoàn thành mục tiêu này sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Cơn đói của Ravager phải được thỏa mãn.{^n}{^n}Diệt sạch loài sinh vật của Đầm Ugden tên là Mossflingers.{^n}{^n}Bất cứ ai hoàn thành mục tiêu này sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nhân danh Ravager đưa ra án tử.{^n}{^n}Thăm Dò Rìa Hư Không, tên Chthonian được gọi là Dar'Vagol phải bị tiêu diệt.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Cơn đói của Ravager phải được thỏa mãn.{^n}{^n}Giết Rhidal'Gulvor ở Hoang Địa Tro Tàn.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Dọn sạch Rễ Cây Mọc Ngầm.{^n}{^n}Tìm một tên được gọi là Swillius, ở Rễ Cây Mọc Ngầm, và lấy đi mạng sống của để tỏ lòng tôn kính với Ravager.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nhân danh Ravager đưa ra án tử.{^n}{^n}Tìm một tên được gọi là Polterrios ở Rừng Âm U và kết thúc mạng sống của hắn.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Cơn đói của ngày ấy phải được thỏa mãn.{^n}{^n}Tìm Vladris, ở các địa điểm đóng quân phía Đông Barrowholm, và kết thúc mạng sống của hắn để tỏ lòng tôn kính với Ravager.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nhân danh Ravager đưa ra án tử{^n}{^n}Tìm một tên được gọi là Yoknar, ở vùng đầm lầy phía Nam Barrowholm, và lấy đi mạng sống của hắn để tỏ lòng tôn kính với Ravager.{^n}{^n}Bất cứ ai tiêu diệt kẻ địch này sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Ravager muốn một Thánh Vật hùng mạnh để "thưởng thức". Chỉ có một thứ bị tha hóa vừa đủ mới đáp ứng yêu cầu.{^n}{^n}Thánh vật được gọi là Tha Hóa có lẽ sẽ làm thỏa mãn cơn đói của ngày ấy, nhưng chắc chỉ được một chốc thoáng qua mà thôi.{^n}{^n}Bất cứ ai mang đến một Thánh Vật Tha Hóa để hiến dâng cho Đấng Vĩ Đại sẽ được thưởng một mắt Manticore.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Packla, một người được chọn đã bắt đầu biến đổi, sự hung tàn đã nảy sinh trong cơn đói của cô ta, cô ta tấn công cả nhưng Wendigos mạnh hơn mình.{^n}{^n}Điều này làm Ravager khó chịu. Packla phải bị triệt hạ ngay lập tức. Tìm cô ta ở các trại ăn thịt phân bố rải rác khắp Rừng Âm U.{^n}{^n}Bất cứ ai thực thi ngay lập tức ý chí của Ravager sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Tìm Bargoll, the Mouldering Mound, ở Đầm Ugden và tiêu diệt nó nhân danh Ravager.{^n}{^n}Bất cứ ai tiêu diệt mối đe dọa này đối với căn cứ của chúng tôi sẽ được thưởng bằng một ít sắt.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Nhân danh Ravager yêu cầu án tử. {^n}{^n}Tỏ lòng tôn kính đối với thần chết và giết một tên được gọi là Lunal'Valgoth ở Giới Hạn Minh Mẫn.{^n}{^n}Bất cứ ai trừ khử được tên dám xâm phạm lãnh thổ của Ravager sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Ravager sẽ không bị thách thức.{^n}{^n}Tiến vào Rìa Hư Không và giết một tên được gọi Ekket'Zul. {^n}{^n}Bất cứ ai trừ khử được tên dám xâm phạm lãnh thổ của Ravager sẽ được thưởng bằng một số nguyên liệu từ kho của chúng tôi.
+Nhận nhiệm vụ.
+Rời khỏi Bảng Truy nã.
+Nhiệm vụ tiếp theo.
+
+Bạn đã nhận được sự tin tưởng của giáo phái và như vậy bạn thể biết nhiều hơn về các chuyện bí mật của họ.
+
+Rời khỏi Bảng Truy nã.
+Barrowholm vẫn chưa xem bạn là đồng minh của họ.{^n}{^n}Danh tiếng cần ở mức Tôn Trọng mới có thể xem Bảng Truy nã.
+Rời khỏi Bảng Truy nã.

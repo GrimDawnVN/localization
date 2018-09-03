@@ -1,0 +1,7 @@
+Khu vực Kích nổ
+Một vật cản đã chắn ngang con đường này. Bạn có thể dọn sạch nó bằng một số thuốc nổ hạng nặng.{^n}{^n}Sẽ mất 3 quả Mìn để dọn đường.
+Cần 3 quả Mìn
+Phá hủy vật cản đường.
+Kệ nó.
+Bạn đã loại bỏ vật cản đường.
+Được.

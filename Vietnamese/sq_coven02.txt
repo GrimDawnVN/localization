@@ -1,0 +1,19 @@
+Hội Phù thủy Đầm Ugden
+Thành lũy của Hội Phù Thủy
+Thu thập Vật liệu
+^r(Tên nhiệm vụ: Coven's Walls)^- ^n^nGarradia đã nhờ bạn đi thu thập một vài loại vật liệu để chuẩn bị cho nghi thức bảo hội mới của Hội Phù Thủy. Cô ấy cần Mật Venomgaze ^r[Venomgaze Bile]^- từ Venomgaze Basilisks, một cái Sừng từ Leafmane Alpha ^r[Leafmane Alpha Horn]^-, và một đó Hoa Ugden ^r[Ugdenbloom]^- mọc quanh đầm lầy hoặc từ những con Golems Đầm Ugden ^r[Ugdenbog]^-.{^n}{^n}Khi bạn có đủ cả ba thứ, hãy đem chúng cho Garradia tại Nơi Trú Ẩn của Hội ^r[Coven's Refuge]^- ở Đầm Ugden để đổi lấy sắt.
+Thu thập Mật Venomgaze
+Thu thập Sừng Leafmane Alpha
+Thu thập Hoa Ugden
+Đưa số vật liệu ấy cho Garradia tại Nơi Trú Ẩn của Hội.
+
+
+
+
+
+
+
+
+
+
+

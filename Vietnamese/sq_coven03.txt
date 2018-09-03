@@ -1,0 +1,15 @@
+Hội Phù thủy Đầm Ugden
+Cắt tỉa Cỏ dại
+Thực vật Khổng lồ
+^r(Tên nhiệm vụ: Pruning the Weeds)^- ^n^nGarradia đã nhờ bạn tiến vào một hang ổ được biết với cái tên Rễ Cây Mọc Ngầm ^r[Undergrowth]^-, nằm sâu bên trong Đầm Ugden ^r[Ugdenbog]^-. Ở đây có một giống loài phá hoại đang phát triển mang tên Sylvarria, một sinh vật phàm ăn với bộ rễ đâm sâu và lan rộng khắp Đầm Ugden.{^n}{^n}Sylvarria đã phát triển vượt mức kiểm soát và những chiếc rễ đen của "cô ta" có thể đe dọa đến cả Hội Phù thủy. Đã đến lúc "cô ta" phải bị tiêu diệt.
+Tiêu diệt Sylvarria
+
+Trở về gặp Garradia
+^r(Tên nhiệm vụ: Pruning the Weeds)^- ^n^nBạn đã tiêu diệt được sinh vật mang tên Sylvarria..{^n}{^n}Hãy trở về gặp Garradia tại Nơi Trú Ẩn của Hội ^r[Coven's Refuge]^- để báo cho cô ấy biết về thắng lợi của bạn.
+Nói chuyện với Garradia tại Nơi Trú Ẩn của Hội.
+
+
+
+
+
+
