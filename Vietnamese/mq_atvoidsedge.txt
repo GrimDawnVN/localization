@@ -1,0 +1,24 @@
+Hành trình đến Malmouth
+Dọc theo Rìa Hư không
+Thoát khỏi Hư không
+^r(Tên nhiệm vụ: Along the Void's Edge)^- ^n^nBạn tìm thấy Ulgrim còn sống, mặc dù trông có vẻ không được bình thường. Trong khi ông ấy đang chiến đấu với bọn Chthonian, Bạn đã khôi phục được bản năng chiến binh của ông ấy và cho ông ấy một tia hy vọng.{^n}{^n}Tuy nhiên, cả hai vẫn bị mặc kẹt trong hư không. Nếu Garradia nói sự thật, vậy thì bạn có thể sử dụng cổng dịch chuyển hư không để du hành giữa các vùng khác nhau của Cairn. Mặc dù con đường phía trước đầy rẫy kẻ thù kinh hoàng, bạn vẫn phải tiến về phía trước.
+
+
+Thoát sang phía bên kia của Rìa Hư Không ^r[Void's Edge]^-
+
+Nói chuyện Ulgrim
+^r(Tên nhiệm vụ: Along the Void's Edge)^- ^n^nBạn tìm thấy một cổng dịch chuyển khác trong Rìa Hư không dẫn tới một khu vực ở Cairn dường như bị tàn phá bởi lực lượng của Lửa Aetherial và bọn Chthonian.{^n}{^n}Nói chuyện với Ulgrim để quyết định bước đi tiếp theo của bạn.
+
+
+Nói chuyện với Ulgrim ở Ngoại vi Malmouth ^r[Malmouth Outskirts]^-
+
+
+
+
+
+
+
+
+
+
+
