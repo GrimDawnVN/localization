@@ -1,0 +1,15 @@
+Barrowholm
+Côn trùng nơi Hầm mỏ
+Quét sạch Hầm mỏ
+^r(Tên nhiệm vụ: Mine Pests)^- ^n^nNhằm đề phòng trường hợp khẩn cấp, Barrowholm đã tích trữ quân nhu thiết yếu bằng cách để chúng trong Mỏ Barrowholm gần đó ở phía đông. Hầm mỏ ấy nay đã bị xâm chiến bởi bọn sâu bọ với mong muốn chiếm lấy kho thức ăn ấy làm của riêng.{^n}{^n}Barrowholm  sẽ không thể tồn tại được lâu nếu mất đi kho quân nhu ấy. Hãy tiến vào trong mỏ và tiêu diệt bất cứ con Pitcreeper Đầm Ugden ^r[Ugdenbog]^- nào ẩn nấp ở trong đó.
+Quét sạch bọn Pitcreeper Đầm Ugden trong Mỏ Barrowholm
+
+Trở về gặp Tyvald
+^r(Tên nhiệm vụ: Mine Pests)^- ^n^nBạn đã quét sạch sự xâm hại bên trong mỏ và nên quay về báo cáo cho Tyvald ở Barrowholm
+Nói chuyện với Tyvald Hallows tại Barrowholm
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Barrowholm
+Vật Bảo hộ Wendigo
+Khôi phục lại Vật Bảo hộ
+^r(Tên nhiệm vụ: Wendigo Wards)^- ^n^nMột trong những pháp sư của Barrowholm đã đặt các loại vật bảo hộ quanh ngôi làng nhằm xua đuổi những sinh vật kinh tởm sống ở vùng đầm lầy. Trong số những vật tổ này có một vài cái đang bị hư hỏng. Tyvald đã nhờ bạn tiến vào vùng hoang vu và khôi phục lại những vật bảo hộ này. Chúng được đặt ở vùng ngoại vi của ngôi làng.
+Khôi phục Vật Bảo hộ phía Bắc
+Khôi phục Vật Bảo hộ phía Đông
+Khôi phục Vật Bảo hộ phía Tây
+
+Trở về gặp Tyvald
+^r(Tên nhiệm vụ: Wendigo Wards)^- ^n^nBạn đã khôi phục lại được những vật bảo hộ.{^n}{^n}Hãy trở về gặp Tyvald ở Barrowholm với tin tốt lành.
+Nói chuyện với Tyvald Hallows tại Barrowholm
+
+
+
+
+
+
+

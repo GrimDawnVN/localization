@@ -1,0 +1,20 @@
+Barrowholm
+Lữ khách hãy cẩn thận
+Lữ khách bị Dối lừa
+^r(Tên nhiệm vụ: Travelers Beware)^- ^n^nMột vài lữ khách đã đi qua Đầm Ugden ^r[Ugdenbog]^- vào những ngày gần đây, đa số bọn họ đều không lường trước được những hiểm nguy ở nơi đó. Jordyth đã nhờ bạn đi tìm những người đã trở thành nạn nhân của những kẻ ăn thịt người gần đó ở phía nam Đầm Ugden và mang họ về Barrowholm. {^n}{^n}Càng nhiều người thì lại càng có nhiều miệng ăn, nhưng điều đó cũng có nghĩa rằng sẽ có thêm nhiều tay giúp hoàn thành công việc và giữ cho mọi người an toàn.
+Giải cứu Lữ khách ở phía Bắc Đầm Ugden
+Giải cứu Lữ khách ở phía Đông Bắc Đầm Ugden
+
+Trở về gặp Jordyth
+^r(Tên nhiệm vụ: Travelers Beware)^- ^n^nBạn đã giải cứu được những Lữ khách lạc đường và đưa họ về Barrowholm. Nói chuyện với Jordyth Evelline để báo cho anh ta biết về thắng lợi của bạn.
+Nói chuyện với Jordyth Evelline tại Barrowholm
+
+
+
+
+
+
+
+
+
+

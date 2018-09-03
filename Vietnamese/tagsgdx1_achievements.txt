@@ -1,0 +1,155 @@
+# Achievement Groups
+
+achGDX1Group1=Tro Tàn Thành Malmouth
+
+# Achievements
+
+achGDX1001Title=Trận Chiến Không Hồi Kết
+achGDX1001Desc=^w[Tên tiếng Anh: ^yThe Fight Continues^w]{^-}{^n}Phá huỷ Rào Chắn Aether ở phía Bắc Làng Burrwitch.
+
+achGDX1002Title=Hào Hứng Cùng Bạn Mới
+achGDX1002Desc=^w[Tên tiếng Anh: ^yEmbrace New Friendships^w]{^-}{^n}Chọn duy trì quan hệ bạn bè với người dân Barrowholm.
+
+achGDX1003Title=Đối Mặt Kẻ Thù Mới
+achGDX1003Desc=^w[Tên tiếng Anh: ^yEmbrace New Foes^w]{^-}{^n}Chọn duy trì thái độ thù địch với người dân Barrowholm.
+
+achGDX1004Title=Bước Vào Cõi Hư Vô
+achGDX1004Desc=^w[Tên tiếng Anh: ^yInto the Void^w]{^-}{^n}Kích hoạt Tế Đàn Rattosh.
+
+achGDX1005Title=Là Tôi, Bạn Cũ Của Anh
+achGDX1005Desc=^w[Tên tiếng Anh: ^yIt's Me, Your Friend^w]{^-}{^n}Thuyết phục một người bạn cũ rằng bạn đứng về phe của anh ta.
+
+achGDX1006Title=Cuộc Tranh Luận Thân Thiện
+achGDX1006Desc=^w[Tên tiếng Anh: ^yFriendly Brawl^w]{^-}{^n}Dạy bạn cũ một bài học.
+
+achGDX1007Title=Vì Malmouth
+achGDX1007Desc=^w[Tên tiếng Anh: ^yFor Malmouth^w]{^-}{^n}Chiếm lại căn cứ của Quân Kháng Chiến Malmouth ở Quận Mũ Thép.
+
+achGDX1008Title=Huyền Thoại Trăm Năm
+achGDX1008Desc=^w[Tên tiếng Anh: ^yCentennial Legend^w]{^-}{^n}Đạt cấp 100.
+
+achGDX1009Title=Thần Thoại Trăm Năm
+achGDX1009Desc=^w[Tên tiếng Anh: ^yMonomythic Centennial^w]{^-}{^n}Đạt cấp 100 trong Chế độ Hardcore.
+
+achGDX1010Title=Nhát Đâm Từ Bóng Tối
+achGDX1010Desc=^w[Tên tiếng Anh: ^yA Stab in the Dark^w]{^-}{^n}Giết Ekket'Zul, Căn Nguyên Bóng Tối ở Rìa Hư Không.
+
+achGDX1011Title=Sự Chấm Dứt Của Màn Đêm
+achGDX1011Desc=^w[Tên tiếng Anh: ^yAn End to the Darkness^w]{^-}{^n}Giết Ekket'Zul, Căn Nguyên Bóng Tối tại Rìa Hư Không ở Độ khó Tối Thượng.
+
+achGDX1012Title=Cốc Cốc Cốc...
+achGDX1012Desc=^w[Tên tiếng Anh: ^yKnock Knock^w]{^-}{^n}Giết Bollag, Người Gác Cổng tại Cầu Malmouth.
+
+achGDX1013Title=Người Phá Cổng 
+achGDX1013Desc=^w[Tên tiếng Anh: ^yGate Crasher^w]{^-}{^n}Giết Bollag, Người Gác Cổng tại Cầu Malmouth ở Độ khó Tối Thượng.
+
+achGDX1014Title=Để Những Cây Khác Phát Triển Được
+achGDX1014Desc=^w[Tên tiếng Anh: ^ySo Others May Grow^w]{^-}{^n}Tiêu Diệt Sylvarria bên dưới Rễ Cây Mọc Ngầm.
+
+achGDX1015Title=Kẻ Diệt Cỏ Dại
+achGDX1015Desc=^w[Tên tiếng Anh: ^yWeed Killer^w]{^-}{^n}Tiêu Diệt Sylvarria bên dưới Rễ Cây Mọc Ngầm ở Độ khó Tối Thượng.
+
+achGDX1016Title=Lại Là Ngươi Nữa!
+achGDX1016Desc=^w[Tên tiếng Anh: ^yIt's You Again!^w]{^-}{^n}Giết Krieg, Kẻ Đắp Thịt trong Xưởng Thịt.
+
+achGDX1017Title=Nhớ Ta Không?
+achGDX1017Desc=^w[Tên tiếng Anh: ^yRemember Me?^w]{^-}{^n}Giết Krieg, Kẻ Đắp Thịt trong Xưởng Thịt ở Độ khó Tối Thượng.
+
+achGDX1018Title=Không Còn Giật Dây Được Nữa
+achGDX1018Desc=^w[Tên tiếng Anh: ^yNo Strings on Me^w]{^-}{^n}Chiến thắng sinh vật Aether từng chiếm thể xác của bạn.
+
+achGDX1019Title=Ta Làm Chủ Chính Mình
+achGDX1019Desc=^w[Tên tiếng Anh: ^yI'm My Own Master^w]{^-}{^n}Chiến thắng sinh vật Aether từng chiếm thể xác của bạn ở Độ khó Tối Thượng.
+
+achGDX1020Title=Kẻ Dời Núi
+achGDX1020Desc=^w[Tên tiếng Anh: ^yCrush the Mountain^w]{^-}{^n}Tiêu Diệt Galakros, Ngọn Núi Hùng Vĩ tại Cống Ngầm Malmouth.
+
+achGDX1021Title=Kẻ Phá Núi
+achGDX1021Desc=^w[Tên tiếng Anh: ^yMountain Slayer^w]{^-}{^n}Tiêu Diệt Galakros, Ngọn Núi Hùng Vĩ tại Cống Ngầm Malmouth ở Độ khó Tối Thượng.
+
+achGDX1022Title=Tai Ương Của Malmouth
+achGDX1022Desc=^w[Tên tiếng Anh: ^yThe Scourge of Malmouth^w]{^-}{^n}Giết Theodin Marcell, Kẻ Nặn Xác tại Thánh Đường Xác Thịt.
+
+achGDX1023Title=Trả Thù Cho Những Người Đã Ngã Xuống
+achGDX1023Desc=^w[Tên tiếng Anh: ^yRevenge for the Fallen^w]{^-}{^n}Giết Theodin Marcell, Kẻ Nặn Xác tại Thánh Đường Xác Thịt ở Độ khó Tối Thượng.
+
+achGDX1024Title=Cuồng Nộ
+achGDX1024Desc=^w[Tên tiếng Anh: ^yRavaged^w]{^-}{^n}Tiêu Diệt một trong các hoá thân của Ravager.
+
+achGDX1025Title=Hòn Ngọc Giữa Bùn Nhơ
+achGDX1025Desc=^w[Tên tiếng Anh: ^yThe Jewel in the Mud^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với dân làng Barrowholm.
+
+achGDX1026Title=Những Nghi Thức Ở Đầm Ugden
+achGDX1026Desc=^w[Tên tiếng Anh: ^yUgdenbog Rituals^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với Hội Phù Thuỷ Đầm Ugden.
+
+achGDX1027Title=Anh Hùng Của Người Dân
+achGDX1027Desc=^w[Tên tiếng Anh: ^yHero of the People^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với Phe Kháng Chiến Malmouth.
+
+achGDX1028Title=Vị Anh Hùng Đáng Kính
+achGDX1028Desc=^w[Tên tiếng Anh: ^yRevered Champion^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với 9 Phe.
+
+achGDX1029Title=Người Bảo Vệ Malmouth
+achGDX1029Desc=^w[Tên tiếng Anh: ^yDefender of Malmouth^w]{^-}{^n}Hoàn thành cốt truyện Tro Tàn Thành Malmouth.
+
+achGDX1030Title=Vô Địch Thành Malmouth
+achGDX1030Desc=^w[Tên tiếng Anh: ^yChampion of Malmouth^w]{^-}{^n}Hoàn thành cốt truyện Tro Tàn Thành Malmouth ở Độ khó Cao Cấp.
+
+achGDX1031Title=Vị Cứu Tinh Thành Malmouth
+achGDX1031Desc=^w[Tên tiếng Anh: ^ySavior of Malmouth^w]{^-}{^n}Hoàn thành cốt truyện Tro Tàn Thành Malmouth ở Độ khó Tối Thượng.
+
+achGDX1032Title=Tiêu Diệt Hàng Loạt
+achGDX1032Desc=^w[Tên tiếng Anh: ^yMass Extermination^w]{^-}{^n}Tiêu Diệt 200000 Quái Vật của lục địa Cairn.
+
+achGDX1033Title=Sát Thủ Vô Song
+achGDX1033Desc=^w[Tên tiếng Anh: ^yUnequaled Slayer^w]{^-}{^n}Tiêu Diệt 2000 Quái Vật Anh Hùng (quái vật có ngôi sao trên đầu).
+
+achGDX1034Title=Kho Tàng Ngớ Ngẩn
+achGDX1034Desc=^w[Tên tiếng Anh: ^yA Mad Stash^w]{^-}{^n}Mở Kho Châu Báu thất lạc của Ivonda
+
+achGDX1035Title=Kẻ Thù Truyền Kiếp Mà Chẳng Khủng Khiếp
+achGDX1035Desc=^w[Tên tiếng Anh: ^yNemesis More Like MEHmesis^w]{^-}{^n}Tiêu diệt 10 Đại Kình Địch ở Độ khó Cao Cấp hoặc Độ khó Tối Thượng.
+
+achGDX1036Title=Bậc Thầy Triệu Hồi
+achGDX1036Desc=^w[Tên tiếng Anh: ^yPet Hoarder^w]{^-}{^n}Triệu hồi 18 thuộc hạ trong cùng một thời điểm.
+
+achGDX1037Title=Cống Hiến Đến Tàn Tro
+achGDX1037Desc=^w[Tên tiếng Anh: ^yAshen Devotion^w]{^-}{^n}Phục Dựng 55 Miếu Thờ.
+
+achGDX1038Title=Nhà Thám Hiểm Tài Ba
+achGDX1038Desc=^w[Tên tiếng Anh: ^yExceptional Explorer^w]{^-}{^n}Mở 25 Rương Chỉ-Mở-Một-Lần.
+
+achGDX1039Title=Nhà Hiền Triết
+achGDX1039Desc=^w[Tên tiếng Anh: ^yLoremaster^w]{^-}{^n}Thu Thập 70 Bản Ghi Chép.
+
+achGDX1040Title=Vị Cứu Tinh Bất Khuất Của Malmouth
+achGDX1040Desc=^w[Tên tiếng Anh: ^yImmortal Savior of Malmouth^w]{^-}{^n}Hoàn thành cốt truyện ở Độ khó Tối Thượng, Chế độ Hardcore.
+
+achGDX1041Title=Thử Thách Biến Chất
+achGDX1041Desc=^w[Tên tiếng Anh: ^yTrial of Corruption^w]{^-}{^n}Vượt qua Thử Thách Biến Chất trong Khu Rừng Cổ Xưa.
+
+achGDX1042Title=Thuần Phục Kẻ Hoang Dã
+achGDX1042Desc=^w[Tên tiếng Anh: ^yThe Wild Tamed^w]{^-}{^n}Tiêu Diệt Gargabol, Trái Tim Hoang Dã trong Khu Rừng Cổ Xưa.
+
+achGDX1043Title=Thu Phục Kẻ Hoang Dã
+achGDX1043Desc=^w[Tên tiếng Anh: ^yTaming the Untamed^w]{^-}{^n}Tiêu Diệt Gargabol, Trái Tim Hoang Dã trong Khu Rừng Cổ Xưa ở Độ khó Tối Thượng.
+
+achGDX1044Title=Kẻ Thuần Phục Bất Khuất
+achGDX1044Desc=^w[Tên tiếng Anh: ^yImmortal Wild Tamer^w]{^-}{^n}Tiêu Diệt Gargabol, Trái Tim Hoang Dã trong Khu Rừng Cổ Xưa ở Chế độ Hardcore.
+
+achGDX1045Title=Vị Thần Cổ Xưa Của Đầm Ugden
+achGDX1045Desc=^w[Tên tiếng Anh: ^yThe Ancient of Ugdenbog^w]{^-}{^n}Tiêu Diệt Kra'vall, Thần Nước Cổ Xưa.
+
+achGDX1046Title=Sát Thủ Huyền Thoại
+achGDX1046Desc=^w[Tên tiếng Anh: ^ySlayer of Myths^w]{^-}{^n}Tiêu Diệt Kra'vall, Thần Nước Cổ Xưa ở Độ khó Tối Thượng.
+
+achGDX1047Title=
+achGDX1047Desc=
+
+achGDX1048Title=
+achGDX1048Desc=
+
+achGDX1049Title=
+achGDX1049Desc=
+
+achGDX1050Title=
+achGDX1050Desc=

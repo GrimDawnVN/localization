@@ -1,0 +1,843 @@
+tagSkillClassName07=Người Phán Quyết ^f[^tInquisitor^f]{^-}
+tagSkillClassName08=Tử Linh Pháp Sư ^f[^tNecromancer^f]{^-}
+
+tagSkillClassName0107=Chiến Lược Gia ^f[^tTactician^f]{^-}
+tagSkillClassName0108=Tử Linh Kỵ Sĩ ^f[^tDeath Knight^f]{^-}
+tagSkillClassName0207=Người Thanh Trừng ^f[^tPurifier^f]{^-}
+tagSkillClassName0208=Ô Nhiễm Tử Sĩ ^f[^tDefiler^f]{^-}
+tagSkillClassName0307=Kẻ Lừa Dối ^f[^tDeceiver^f]{^-}
+tagSkillClassName0308=Kẻ Ngoại Đạo ^f[^tCabalist^f]{^-}
+tagSkillClassName0407=Thích Khách ^f[^tInfiltrator^f]{^-}
+tagSkillClassName0408=Tử Thần ^f[^tReaper^f]{^-}
+tagSkillClassName0507=Ma Pháp Sát Thủ ^f[^tMage Hunter^f]{^-}
+tagSkillClassName0508=Phong Ấn Thuật Sĩ ^f[^tSpellbinder^f]{^-}
+tagSkillClassName0607=Hộ Vệ ^f[^tVindicator^f]{^-}
+tagSkillClassName0608=Tư Tế ^f[^tRitualist^f]{^-}
+tagSkillClassName0708=Kẻ Bội Giáo ^f[^tApostate^f]{^-}
+
+
+tagSkillClassDescription07=Là thành viên của Hội Luminari, những Người Phán Quyết có trọng trách bảo vệ vương quốc Erulan khỏi những hiểm hoạ từ pháp thuật. Trải qua nhiều thế kỷ, họ đã thu thập vô số các Cổ Ngữ Ma Vật chứa đựng những quyền năng không tưởng, nhưng vì nghĩa vụ quan trọng hơn là sự an toàn, các Ma Vật đã được nghiên cứu và tạo thành nhiều bản sao để sử dụng trong những cuộc thanh trừng. Dù là những xạ thủ cừ khôi, việc trang bị nhiều Ma Vật và Dấu Ấn Ma Pháp giúp họ tấn công hiệu quả cả khi sử dụng vũ khí cận chiến.
+
+tagSkillClassDescription08=Dù các Tử Linh Pháp Sư ngày nay đều xuất phát từ Giáo phái Tử Linh Hộ Vệ và được đào tạo bởi Uroboruuk bí ẩn, không phải ai cũng chọn cho mình cuộc sống ẩn dật. Với quyền năng bắt nguồn từ nỗi sợ hãi, các Tử Linh Pháp Sư tìm kiếm sự cân bằng thông qua việc am hiểu một quy luật tất yếu của cuộc sống mà ai cũng sẽ trải nghiệm: Cái Chết. Sức mạnh của họ đến từ việc triệu gọi các chiến binh đã khuất, đồng thời hút cạn sinh khí của kẻ địch, trong khi việc sử dụng vũ khí trực tiếp chiến đấu rất hiếm khi xảy ra.
+
+
+#Class02
+
+tagGDX1Class02SkillTracker02A=Số lượng Đại Bác được thiết lập hiện tại
+
+
+#Class04
+
+tagGDX1Class04SkillTracker01A=Số lượng Đao Linh Hồn được triệu gọi hiện tại
+
+
+#Class06
+
+tagGDX1Class06SkillTracker01A=Số lượng Gió Xoáy được triệu gọi hiện tại
+tagGDX1Class06SkillTracker02A=Số lượng Vật Tổ Bão Táp được triệu gọi hiện tại
+
+
+#Class07
+
+tagGDX1Class07SkillName00A=Người Phán Quyết ^g[^fInquisitor^g]{^-}
+tagGDX1Class07SkillDescription00A=Được huấn luyện khắc nghiệt để ngăn chặn những hiểm hoạ từ Ma Thuật và Tà Thuật.
+
+tagGDX1Class07SkillName01A=Thần Chú Đau Đớn ^g[^fWord of Pain^g]{^-}
+tagGDX1Class07SkillDescription01A=Bằng việc đính những Dấu Ấn Ma Pháp vào giáp phục, Người Phán Quyết chỉ cần dùng giọng nói của mình cũng đủ gây đau đớn cho kẻ địch của nhân loại. Chỉ với một câu chú, kẻ địch sẽ giãy giụa đau đớn vì bị Năng Lượng Ma Pháp xâm nhập vào cơ thể.
+tagGDX1Class07SkillName01B=Thần Chú Thống Khổ ^g[^fWord of Agony^g]{^-}
+tagGDX1Class07SkillDescription01B=Thần Chú Đau Đớn được tăng cường sức mạnh Nguyên Tố tiềm ẩn, mở rộng phạm vi ảnh hưởng và gây sát thương khiến kẻ địch không nhìn rõ.
+tagGDX1Class07SkillName01C=Án Tử ^g[^fDeath Sentence^g]{^-}
+tagGDX1Class07SkillDescription01C=Bằng một câu chú đơn giản, năng lượng Nguyên Tố tàn phá cơ thể kẻ địch và kết liễu chúng.
+
+tagGDX1Class07SkillName02A=Hộp Bão Táp của Elgoloth ^g[^fStorm Box of Elgoloth^g]{^-}
+tagGDX1Class07SkillDescription02A=Kích hoạt Cổ Ngữ Ma Vật "Hộp Bão Táp của Elgoloth", bao phủ kẻ địch một lớp năng lượng tâm linh khiến không khí xung quanh tích điện, gây điện giật cho mục tiêu lẫn các kẻ địch đứng gần đó.
+tagGDX1Class07SkillName02B=Liên Kết Điện ^g[^fLightning Tether^g]{^-}
+tagGDX1Class07SkillDescription02B=Mục tiêu bị ràng buộc với bạn bằng một mối liên kết điện từ, khiến mục tiêu và những kẻ địch bước qua mối liên kết bị sốc điện liên tục. Phạm vi giữa bạn và mục tiêu liên kết bị giới hạn, nên Liên Kết Điện sẽ bị cắt đứt nếu như bạn cách mục tiêu quá xa. {^n}^oChỉ cho phép liên kết với 3 mục tiêu cùng một lúc.
+tagGDX1Class07SkillName02C=Lưới Ma Thuật của Allagast ^g[^fAllagast's Arcane Net^g]{^-}
+tagGDX1Class07SkillDescription02C=Dù Hội Luminari được biết đến như là lực lượng giám sát hoạt động của Hội Gildam Arcanum, sự hợp tác mang tính nguyên tắc giữa hai Hội không phải là không có. Bằng việc điều chỉnh chính xác Hộp Bão Táp, trường điện từ của nó sẽ được tích hợp năng lượng ma pháp Aether. {^n}^oLiên Kết Điện vẫn duy trì khả năng gây giật điện.
+
+tagGDX1Class07SkillName03A=Thần Chú Tái Sinh ^g[^fWord of Renewal^g]{^-}
+tagGDX1Class07SkillDescription03A=Với sức mạnh có thể huỷ diệt kẻ địch hoặc hồi phục đồng đội trong nháy mắt, Thần Chú Tái Sinh là kỹ năng không thể thiếu của một Người Phán Quyết. Thần Chú Tái Sinh đã trở thành một tài sản vô giá trong những trận chiến nhờ vào khả năng phục hồi vết thương cho bản thân và đồng đội, đồng thời bảo vệ họ khỏi các mối nguy hiểm khác.
+tagGDX1Class07SkillName03B=Cường Tráng ^g[^fVigor^g]{^-}
+tagGDX1Class07SkillDescription03B=Một Người Phán Quyết được đào tạo bài bản sẽ không để bất cứ thứ gì cản đường họ tiến tới kẻ thù.
+tagGDX1Class07SkillName03C=Ý Chí Thép ^g[^fSteel Resolve^g]{^-}
+tagGDX1Class07SkillDescription03C=Thần Chú Tái Sinh làm các giác quan trở nên nhạy bén và khiến ý chí trở nên mạnh mẽ khi đối diện với kẻ thù.
+tagGDX1Class07SkillName03D=Yểm Chú Vũ Khí ^g[^fWord of Arms^g]{^-}
+tagGDX1Class07SkillDescription03D=Bằng việc truyền ý chí của mình vào những vũ khí hai tay khổng lồ, Người Phán Quyết có thể khắc các Dấu Ấn Ma Pháp vào vũ khí để làm cho Thần Chú Tái Sinh phát huy khả năng tối đa. {^n}^oYêu cầu Vũ khí Cận Chiến Hai Tay hoặc Vũ Khí Tầm Xa Hai Tay.
+
+tagGDX1Class07SkillName04A=Ngọn Lửa của Ignaffar ^g[^fFlames of Ignaffar^g]{^-}
+tagGDX1Class07SkillDescription04A=Giữ chặt Hoả Thạch của Ignaffar và đưa ra phía trước, phóng thích một ngọn lửa huỷ diệt liên tục từ bàn tay, thời gian duy trì phụ thuộc vào mối liên kết giữa ý chí của bạn và Hoả Thạch.
+tagGDX1Class07SkillName04B=Khuếch Đại ^g[^fIntensify^g]{^-}
+tagGDX1Class07SkillDescription04B=Ngọn Lửa của Ignaffar được khuếch đại mãnh liệt, nung chảy giáp phục và đốt kẻ địch thành tro.
+tagGDX1Class07SkillName04C=Ngọn Lửa Trừng Phạt ^g[^fInfernal Purge^g]{^-}
+tagGDX1Class07SkillDescription04C=Ý chí của bạn truyền vào Hoả Thạch của Ignaffar, trừng phạt những kẻ yếu đuối bằng ngọn lửa thiêu đốt.
+tagGDX1Class07SkillName04D=Ngọn Lửa Vĩnh Cửu ^g[^fEndless Flame^g]{^-}
+tagGDX1Class07SkillDescription04D=Được đào tạo bài bản, một Người Phán Quyết có thể duy trì sức mạnh của Hoả Thạch Ignaffar trong một khoảng thời gian dài hơn và gây hiệu quả khủng khiếp hơn.
+tagGDX1Class07SkillName04E=Ngọn Lửa Hắc Ám ^g[^fTainted Flame^g]{^-}
+tagGDX1Class07SkillDescription04E=Dù rất hiếm, song một số Người Phán Quyết đã bị cám dỗ bởi thế lực mà họ phải chống lại. Bằng việc truyền năng lượng hỗn nguyên vào Hoả Thạch của Ignaffar, thay vì phóng thích một ngọn lửa thông thường, Hoả Thạch sẽ phát ra một ngọn lửa hỗn nguyên.
+
+tagGDX1Class07SkillName05A=Ma Vật của Hagarrad ^g[^fRune of Hagarrad^g]{^-}
+tagGDX1Class07SkillDescription05A=Ma Vật của Hagarrad là một trong những Cổ Ngữ Ma Vật đầu tiên được cất giữ nghiêm ngặt bên trong Mật thất của Hội Luminari. Từ sau khi bị Hội Đồng Tối Cao gây sức ép để tiêu diệt những hiểm hoạ Ma Thuật bên trong thành phố, nó đã trở thành bảo vật đầu tiên được cho phép nghiên cứu và được phục chế thành nhiều bản sao, thường sử dụng để ngăn cản các mục tiêu chạy trốn. {^n}^oMa Vật của Hagarrad cần 1.5 giây để kích hoạt và được hưởng thêm sức mạnh từ nhân vật.
+tagGDX1Class07SkillName05A_PetSkill=Hàn Băng Bộc Phá ^g[^fChilling Burst^g]{^-}
+tagGDX1Class07SkillName05B=Lạnh Buốt ^g[^fBiting Cold^g]{^-}
+tagGDX1Class07SkillDescription05B=Năng lượng băng giá phát ra từ Ma Vật của Hagarrad làm tê liệt các giác quan của kẻ địch và khiến chúng dễ bị tổn thương hơn.
+tagGDX1Class07SkillName05C=Sốc Nhiệt ^g[^fChillsurge^g]{^-}
+tagGDX1Class07SkillDescription05C=Giải phóng sức mạnh tiềm ẩn từ Ma Vật của Hagarrad, khiến kẻ địch lạnh thấu xương.
+
+tagGDX1Class07SkillName06A=Dấu Ấn Người Phán Nguyết ^g[^fInquisitor Seal^g]{^-}
+tagGDX1Class07SkillDescription06A=Khắc một dấu ấn ma thuật lên mặt đất để bảo vệ đồng đội đồng thời làm suy yếu kẻ địch bước vào nó. Dấu Ấn không tồn tại vĩnh viễn và sẽ tan biến theo thời gian. {^n}^oDấu Ấn Người Phán Quyết hưởng thêm sức mạnh từ người chơi.
+tagGDX1Class07SkillName06A_PetSkill01=Bảo Vệ ^g[^fBarrier^g]{^-}
+tagGDX1Class07SkillName06A_PetSkill02=Suy Yếu ^g[^fRebuke^g]{^-}
+tagGDX1Class07SkillName06B=Tăng Cường Ma Pháp ^g[^fArcane Empowerment^g]{^-}
+tagGDX1Class07SkillDescription06B=Năng lượng Ma Pháp tăng cường sức mạnh của bạn và đồng đội đứng bên trong Dấu Ấn, làm cho vũ khí và kỹ năng trở nên mạnh mẽ hơn.
+tagGDX1Class07SkillName06C=Vùng Vô Hiệu ^g[^fNull Field^g]{^-}
+tagGDX1Class07SkillDescription06C=Biểu trưng của Dấu Ấn có thể được thay đổi để chống lại các loại pháp thuật và sát thương tầm xa, nhưng sẽ phải tiêu hao nhiều năng lượng hơn.
+
+tagGDX1Class07SkillName07A=Ma Vật của Kalastor ^g[^fRune of Kalastor^g]{^-}
+tagGDX1Class07SkillDescription07A=Đặt Ma Vật của Kalastor trên mặt đất. Ma Vật không ổn định này sẽ phát nổ khi kẻ địch đến gần, đồng thời bắn ra các mảnh vụn gây thêm sát thương cho các mục tiêu xung quanh. {^n}^oMa Vật của Kalastor cần 1.5 giây để kích hoạt và hưởng thêm sức mạnh từ nhân vật.
+tagGDX1Class07SkillName07B=Bốc Cháy ^g[^fIgnition^g]{^-}
+tagGDX1Class07SkillDescription07B=Ma Vật của Kalastor trở nên mất ổn định hơn, gây thêm một loạt vụ nổ và làm kẻ địch choáng váng.
+tagGDX1Class07SkillName07A_PetSkill=Rung Chuyển ^g[^fConcussive Blast^g]{^-}
+
+tagGDX1Class07SkillName08A=Hào Quang Luận Tội ^g[^fAura of Conviction^g]{^-}
+tagGDX1Class07SkillDescription08A=Các Ma Vật đính trên giáp phục phát ra hào quang bảo vệ bản thân và đồng đội, làm tăng thêm sự tập trung và lòng dũng cảm. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1Class07SkillName09A=Hào Quang Kết Án ^g[^fAura of Censure^g]{^-}
+tagGDX1Class07SkillDescription09A=Sự hiện diện của Người Phán Quyết cũng đủ để gieo rắc nỗi sợ hãi cho những kẻ địch của nhân loại. Bằng sức mạnh của các Cổ Ngữ Ma Vật đính trên giáp phục, Người Phán Quyết xông vào những trận chiến khốc liệt với một trái tim nóng như lửa đốt. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1Class07SkillName10A=Chiếc Sừng của Gandarr ^g[^fHorn of Gandarr^g]{^-}
+tagGDX1Class07SkillDescription10A=Việc nghiên cứu Ma Vật "Chiếc Sừng của Gandarr" từng bị cấm suốt nhiều thế kỷ vì nó có khả năng làm đảo lộn tâm trí người sử dụng, nhưng tình thế tuyệt vọng đã buộc Đại Thẩm Phán Serenir dùng nó để trấn áp một giáo phái. Các giáo đồ tà đạo dưới tác dụng của Chiếc Sừng trở nên điên loạn, tấn công lẫn nhau, làm cho Serenir dễ dàng kết liễu chúng, điều này đã khiến cho Chiếc Sừng có cái nhìn tích cực hơn và sau này được phục chế thành nhiều bản sao cho những Người Phán Quyết sử dụng, mặc dù sức mạnh của nó bị giảm đi đôi chút.
+
+tagGDX1Class07SkillName11A=Xạ Thủ Cừ Khôi ^g[^fRanged Expertise^g]{^-}
+tagGDX1Class07SkillDescription11A=Dù được trang bị một loạt Cổ Ngữ Ma Vật và Bảo Vật, tất cả những Người Phán Quyết cũng được huấn luyện để đối đầu với kẻ địch chỉ bằng súng ống và giác quan. Thành thạo sử dụng vũ khí tầm xa giúp Người Phán Quyết kết liễu mục tiêu ở khoảng cách an toàn. {^n}^oĐây là kỹ năng hỗ trợ Vũ Khí Tầm Xa, ngoài ra còn cung cấp khả năng sử dụng hai Súng Ngắn cùng một lúc.
+tagGDX1Class07SkillName12A=Phát Bắn Kích Nổ ^g[^fBursting Round^g]{^-}
+tagGDX1Class07SkillDescription12A=Một phát bắn chuẩn xác có khả năng phát nổ khi trúng vào mục tiêu, thiêu đốt kẻ địch trong phạm vi nổ. {^n}^oĐây là kỹ năng Tầm Xa được kích hoạt từ các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+tagGDX1Class07SkillName13A=Phát Bắn Băng Giá ^g[^fChilling Rounds^g]{^-}
+tagGDX1Class07SkillDescription13A=Một loạt đạn được yểm chú Hàn Băng có khả năng gây đóng băng mục tiêu, làm chúng dễ dàng bị tiêu diệt. {^n}^oĐây là kỹ năng Tầm Xa được kích hoạt từ các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+tagGDX1Class07SkillName14A=Phát Bắn Bão Táp ^g[^fStorm Spread^g]{^-}
+tagGDX1Class07SkillDescription14A=Một tuyệt kỹ được sử dụng khi kẻ địch quá đông, một phát bắn có thể tiêu diệt nhiều kẻ địch cùng lúc. {^n}^oĐây là kỹ năng Tầm Xa được kích hoạt từ các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+
+tagGDX1Class07SkillName15A=Tầm Ngắm Chí Tử ^g[^fDeadly Aim^g]{^-}
+tagGDX1Class07SkillDescription15A=Lúc Người Phán Quyết đối diện với kẻ thù, đôi khi một phát bắn hoặc một đòn ^ochí tử^w là cơ hội duy nhất mà họ có, và cũng là thứ duy nhất mà họ cần.
+
+tagGDX1Class07SkillName16A=Thông Thạo Ma Vật ^g[^fArtifact Handling^g]{^-}
+tagGDX1Class07SkillDescription16A=Thao tác sử dụng bản sao Ma Vật và Bảo Vật từ Mật Thất của Hội Luminari là mấu chốt của mỗi khoá huấn luyện. Những đôi tay không thành thạo, dù là vô tình, cũng có thể đe doạ tính mạng của người sử dụng và những người xung quanh. {^n}^o[Có tác dụng đối với Ma Vật của Hagarrad và Ma Vật của Kalastor, đồng thời cần một trong hai kỹ năng này để kích hoạt]
+
+
+#Class08
+
+tagGDX1Class08SkillName00A=Tử Linh Pháp Sư ^g[^fNecromancer^g]{^-}
+tagGDX1Class08SkillDescription00A=Am hiểu về Cái Chết - vận mệnh nghiệt ngã mà ai cũng sẽ phải trải qua.
+
+tagGDX1Class08SkillName01A=Hấp Thụ Sinh Khí ^g[^fDrain Essence^g]{^-}
+tagGDX1Class08SkillDescription01A=Các Tử Linh Pháp Sư có quan điểm cứng rắn về sự hy sinh cao cả, nghĩa là một người đôi khi phải hy sinh thân mình để nhường sự sống cho người khác. Dù việc này không được tán thành, một số pháp sư đã không thể cưỡng lại được sự cám dỗ từ nguồn năng lượng sống thuần khiết.
+tagGDX1Class08SkillName01B=Thèm Khát Cực Độ ^g[^fHungering Reach^g]{^-}
+tagGDX1Class08SkillDescription01B=Sự thèm khát sinh khí không dễ dàng bị chế ngự một khi trải nghiệm. Sự thèm khát cực độ của bản thân truyền vào phép thuật, khiến cho ảnh hưởng của Hấp Thụ Sinh Khí thỉnh thoảng lan sang các mục tiêu lân cận.
+tagGDX1Class08SkillName01C=Phân Rã ^g[^fDecomposition^g]{^-}
+tagGDX1Class08SkillDescription01C=Kẻ địch của bạn tan thành tro bụi ngay cả khi sự sống vẫn chưa rút hết khỏi thể xác của chúng.
+tagGDX1Class08SkillName01D=Hàn Băng Mộ Địa ^g[^fGravechill^g]{^-}
+tagGDX1Class08SkillDescription01D=Các Tử Linh Pháp Sư niệm câu tử chú khiến khí lạnh từ các nấm mồ bao trùm kẻ địch, làm chúng chậm lại, nhưng lượng sinh khí hấp thụ bị giảm đi.
+xxtagGDX1Class08SkillName01D=Cơn Khát Vô Tận ^g[^fEndless Thirst^g]{^-}
+xxtagGDX1Class08SkillDescription01D=Việc hấp thụ sinh khí thường chỉ được thực hiện trong những tình huống tuyệt vọng, tuy nhiên một số người không thể kiềm chế bản thân một khi đã sử dụng nó và cái giá phải trả là chính bản thân họ và những người xung quanh.
+
+tagGDX1Class08SkillName02A=Triệu Hồi Chiến Binh Xương ^g[^fRaise Skeletons^g]{^-}
+tagGDX1Class08SkillDescription02A=Kỹ năng làm sống lại các nấm xương tàn là một trong những nghi thức đầu tiên và cũng là một môn sơ đẳng mà những người muốn trở thành Tử Linh Pháp Sư phải thực hiện. Bằng ý chí mãnh liệt, một Tử Linh Pháp Sư có thể triệu gọi các linh hồn từ cõi chết và gieo chúng vào những bộ xương. Nếu nghi thức này thành công, các Chiến Binh Xương - những kẻ chỉ trung thành với người triệu hồi, sẽ trỗi dậy. {^n}^oSức mạnh của Chiến Binh Xương tăng theo Điểm thưởng Thuộc Hạ. Cấp kỹ năng càng cao, các thuộc hạ được triệu hồi sẽ càng mạnh.
+tagGDX1Class08SkillTracker02A=Số lượng Chiến Binh Xương đã được triệu gọi
+tagGDX1Class08SkillName02A_PetSkill=Vũ Khí Cổ Xưa ^g[^fAncient Weapons^g]{^-}
+tagGDX1Class08SkillName02A_PetSkill02=Mảnh Đá Lửa ^g[^fFire Shard^g]{^-}
+tagGDX1Class08SkillName02A_PetSkill03=Vành Đai Lửa ^g[^fFirebolt Nova^g]{^-}
+tagGDX1Class08SkillName02A_PetSkill04=Hào Quang Tử Vong ^g[^fUndeath Aura^g]{^-}
+tagGDX1Class08SkillName02A_PetSkill04_Desc=Sự hiện diện của những kẻ trở về từ cõi chết hút hết sinh khí của kẻ địch xung quanh.
+tagGDX1Class08SkillName02A_PetSkill05=Mũi Tên Tử Thần ^g[^fUndeath Missiles^g]{^-}
+tagGDX1Class08SkillName02A_PetSkill06=Tia Chết ^g[^fDeathbolt^g]{^-}
+tagGDX1Class08SkillName02B=Quân Đoàn Tử Sĩ ^g[^fUndeath Legion^g]{^-}
+tagGDX1Class08SkillDescription02B=Việc thông thạo các nghi thức hồi sinh giảm thiểu căng thẳng tinh thần cho người triệu hồi, giúp duy trì thêm nhiều thuộc hạ.
+tagGDX1Class08SkillName02C=Ý Chí Huyệt Mộ ^g[^fWill of the Crypt^g]{^-}
+tagGDX1Class08SkillDescription02C=Truyền thêm năng lượng tử linh vào các Chiến Binh Xương, giúp xương cốt của chúng chịu đựng tốt những đòn tấn công vật lý.
+tagGDX1Class08SkillName02D=Tận Dụng Xương Tàn ^g[^fBone for the Taking^g]{^-}
+tagGDX1Class08SkillDescription02D=Một Tử Linh Pháp Sư thuần thục sẽ tận dụng tối đa các nguồn tài nguyên sẵn có. Mỗi kẻ địch bị giết sẽ tạo cơ hội triệu gọi thêm thuộc hạ. {^n}^oCó xác suất kích hoạt với mỗi kẻ địch bị giết.
+tagGDX1Class08SkillName02E=Hiến Tế Xương Tàn ^g[^fBone Ritual^g]{^-}
+tagGDX1Class08SkillDescription02E=Thông qua việc rèn luyện ý chí, Tử Linh Pháp Sư có thể yểm Lời nguyền Tử Thần vào những nấm xương người chết suốt một khoảng thời gian không hạn định, giúp họ gom dần các thuộc hạ thành một quân đoàn nhỏ. Lời nguyền này giúp chúng kéo dài sự sống, tuy nhiên lại khiến chúng dễ bị tổn thương.
+
+tagGDX1Class08SkillName03A=Thu Nhặt Xương Tàn ^g[^fBone Harvest^g]{^-}
+tagGDX1Class08SkillDescription03A=Dùng sức mạnh của năng lượng tử linh, Tử Linh Pháp Sư có thể khiến những nấm xương tàn dưới mặt đất bật lên như những gai nhọn đâm xuyên vào kẻ địch.
+tagGDX1Class08SkillName03B=Khiếp Sợ ^g[^fDread^g]{^-}
+tagGDX1Class08SkillDescription03B=Những mảnh xương cốt chứa tử khí đâm xuyên vào linh hồn của kẻ địch, tước sự sống khỏi cơ thể chúng và khiến những kẻ yếu đuối bỏ chạy nếu chúng vẫn chưa chết hẳn.
+tagGDX1Class08SkillName03C=Bắt Hồn ^g[^fSoul Harvest^g]{^-}
+tagGDX1Class08SkillDescription03C=Xương cốt người chết vỡ ra thành những mảnh nhỏ và hấp thụ linh hồn của kẻ địch, tăng thêm sức mạnh cho bạn và thuộc hạ bằng Sức mạnh Tử Thần. {^n}^oBắt Hồn có tác dụng với tất cả các đòn tấn công khác và Thuộc Hạ của bạn.
+tagGDX1Class08SkillName03D=Đoạt Hồn Giả ^g[^fHarvester of Death^g]{^-}
+tagGDX1Class08SkillDescription03D=Việc các Tử Linh Pháp Sư được huấn luyện để tấn công cận chiến không được phổ biến, nhưng những ai có thể sử dụng được vũ khí hai tay để gieo rắc cái chết trên chiến trường khốc liệt sẽ xứng đáng nhận được tước hiệu Đoạt Hồn Giả. Đã có nhiều lời đồn thổi về việc Quân Đoàn Đen tuyển mộ các chiến binh này vào lực lượng của mình thay vì xử tử họ theo quy định hoàng gia. {^n}^oYêu cầu sử dụng Vũ khí Hai Tay.
+
+tagGDX1Class08SkillName04A=Mặt Đất Đói Khát ^g[^fRavenous Earth^g]{^-}
+tagGDX1Class08SkillDescription04A=Theo lời triệu gọi của bạn, dịch bệnh và những thứ thối rữa phun trào lên từ lòng đất và gây hại đối với những kẻ địch trong phạm vi của nó.
+tagGDX1Class08SkillName04B=Thối Rửa ^g[^fDecay^g]{^-}
+tagGDX1Class08SkillDescription04B=Khí độc từ tử thi tuôn ra từ lòng đất, làm suy yếu những kẻ địch đến gần.
+tagGDX1Class08SkillName04C=Phun Trào Dịch Bệnh ^g[^fFoul Eruption^g]{^-}
+tagGDX1Class08SkillDescription04C=Năng lượng tử linh xâm nhiễm da thịt, khiến kẻ địch khi chết phát nổ dữ dội, phun dịch bệnh và những thứ độc hại vào kẻ địch xung quanh.
+
+tagGDX1Class08SkillName05A=Triệu Hồi Quái Vật Dịch Bệnh ^g[^fSummon Blight Fiend^g]{^-}
+tagGDX1Class08SkillDescription05A=Triệu gọi một con quái vật được ghép từ xác người và những thứ thối rữa hỗ trợ bạn chống lại kẻ địch. {^n}^oChỉ cho phép triệu gọi một con Quái Vật Dịch Bệnh ở mọi thời điểm. Quái Vật Dịch Bệnh hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+tagGDX1Class08SkillName05A_PetSkill=Vuốt Độc ^g[^fBlighted Claws^g]{^-}
+tagGDX1Class08SkillName05A_PetSkill02=Cái Chết Hiểm Độc ^g[^fVirulent Death^g]{^-}
+tagGDX1Class08SkillName05B=Khí Độc ^g[^fRotting Fumes^g]{^-}
+tagGDX1Class08SkillDescription05B=Mùi hôi thối từ Quái Vật Dịch Bệnh khiến kẻ địch không thể chịu đựng được, dẫn đến nôn mửa và mờ mắt.
+tagGDX1Class08SkillName05C=Ô Nhiễm Bộc Phá ^g[^fBlight Burst^g]{^-}
+tagGDX1Class08SkillDescription05C=Chất độc phát ra từ các thành phần thối rửa trên người Quái Vật Dịch Bệnh bắn vào kẻ địch gây sát thương.
+tagGDX1Class08SkillName05D=Đột Biến Bất Ổn Định ^g[^fUnstable Anomaly^g]{^-}
+tagGDX1Class08SkillDescription05D=Dù phục tùng như là một kẻ bảo vệ, một chút thay đổi trong nghi thức triệu hồi có thể khiến Quái Vật trở nên mất ổn định, phun dịch bệnh và các chất thối rửa ra xung quanh, càn quét kẻ địch trước khi phát nổ dữ dội sau một thời gian ngắn.
+
+tagGDX1Class08SkillName06A=Ràng Buộc Linh Hồn ^g[^fSpectral Binding^g]{^-}
+tagGDX1Class08SkillDescription06A=Ràng Buộc Linh Hồn là một thần chú nguy hiểm, nhưng nó có thể mang lại nhiều tri thức bị lãng quên thậm chí là sự bảo hộ cho người sử dụng. Bằng việc cưỡng chế một linh hồn người chết phục tùng bạn và truyền năng lượng của nó vào cơ thể, bạn sẽ được tăng thêm sinh lực đồng thời kiểm soát năng lượng tử linh tốt hơn. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+tagGDX1Class08SkillName06B=Linh Hồn Báo Oán ^g[^fSpectral Wrath^g]{^-}
+tagGDX1Class08SkillDescription06B=Các linh hồn giúp bạn chống trả bất cứ kẻ địch nào dám tấn công bạn, đồng thời nguyền rủa chúng bằng một lời nguyền gây suy yếu từ mộ địa.
+
+tagGDX1Class08SkillName07A=Hấp Thụ Linh Hồn ^g[^fSiphon Souls^g]{^-}
+tagGDX1Class08SkillDescription07A=Bạn phóng thích năng lượng tử linh, khống chế linh hồn của kẻ địch bằng một lời nguyền tàn bạo, hút năng lượng sống từ chúng và truyền nó cho bạn.
+tagGDX1Class08SkillName07B=Đun Sôi Huyết Dịch ^g[^fBlood Boil^g]{^-}
+tagGDX1Class08SkillDescription07B=Lời nguyền khiến máu của kẻ địch nóng lên dữ dội, làm thể xác của chúng bị phân huỷ nhanh chóng.
+tagGDX1Class08SkillName07C=Đốt Cháy Linh Hồn ^g[^fSear Soul^g]{^-}
+tagGDX1Class08SkillDescription07C=Bằng việc truyền năng lượng ma pháp Aether vào quá trình Hấp Thụ Linh Hồn, Tử Linh Pháp Sư có thể đốt cháy linh hồn kẻ địch trong một khoảng thời gian dài hơn, nhưng việc truyền năng lượng theo cách này không ổn định.
+
+tagGDX1Class08SkillName08A=Điềm Gở ^g[^fIll Omen^g]{^-}
+tagGDX1Class08SkillDescription08A=Sự hiện diện của một Tử Linh Pháp Sư cũng đủ khiến cho kẻ địch run sợ. Bạn phóng thích một tiếng rên rỉ kinh hoàng vào kẻ địch khiến sự can đảm trong chúng bị phá vỡ, đồng thời tiếng rên rỉ này sẽ lan rộng và làm rối loạn kẻ địch xung quanh.
+
+tagGDX1Class08SkillName09A=Tước Đoạt Linh Hồn ^g[^fReap Spirit^g]{^-}
+tagGDX1Class08SkillDescription09A=Một trong những tuyệt kỹ mạnh nhất được Uroboruuk truyền lại cho các tín đồ. Bằng việc tước đoạt linh hồn của kẻ địch, bạn không chỉ gây ra một lượng lớn sát thương mà còn biến một phần linh hồn của chúng thành thuộc hạ phục dịch bạn. Linh hồn được tạo ra cực kỳ hung hãn và bất ổn, khiến nó trở nên hữu dụng trong các trận chiến. {^n}^oCác Linh Hồn Báo Oán hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+tagGDX1Class08SkillName09A_PetSkill=Bàn Tay Tử Linh ^g[^fWraith's Touch^g]{^-}
+tagGDX1Class08SkillName09A_PetSkill02=Vành Đai Sinh Khí ^g[^fVitality Nova^g]{^-}
+
+tagGDX1Class08SkillName10A=Sứ Giả của Cái Chết ^g[^fHarbinger of Souls^g]{^-}
+tagGDX1Class08SkillDescription10A=Nhờ việc am hiểu về Cái Chết, bạn trở người kiểm soát vận mệnh của kẻ địch, sự sống của chúng chỉ như một món đồ để bạn quyết định. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1Class08SkillName11A=Bậc Thầy về Cái Chết ^g[^fMaster of Death^g]{^-}
+tagGDX1Class08SkillDescription11A=Một Tử Linh Pháp Sư lão luyện chính là hiện thân của nỗi sợ hãi, những chuyến viếng thăm của họ được cảnh báo bởi những quân đoàn tử sĩ - những kẻ mãi mãi bị trói buộc bằng ý chí của họ. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1Class08SkillName12A=Nhát Chém Tử Thần ^g[^fReaping Strike^g]{^-}
+tagGDX1Class08SkillDescription12A=Sử dụng năng lượng tử linh truyền vào vũ khí, những đòn tấn công của Tử Linh Pháp Sư sẽ cắt sâu hơn vào da thịt của kẻ địch. {^n}^oCó thể được kích hoạt bằng tất cả các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+tagGDX1Class08SkillName13A=Lưỡi Đao Tử Thần ^g[^fNecrotic Edge^g]{^-}
+tagGDX1Class08SkillDescription13A=Bằng việc yểm tử khí từ huyệt mộ vào vũ khí, những đòn tấn công của bạn khiến vết thương bị hoại tử nhanh chóng, ngay cả những kẻ địch cứng đầu nhất cũng phải gục ngã. {^n}^oCó thể được kích hoạt bằng tất cả các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái). Khi dùng với Vũ khí Cận Chiến, đòn tấn công sẽ ảnh hưởng thêm các mục tiêu lân cận.
+
+tagGDX1Class08SkillName14A=Dấu Vết Thống Khổ ^g[^fMark of Torment^g]{^-} 
+tagGDX1Class08SkillDescription14A=Dù cuối cùng ai cũng phải đối mặt với Cái Chết, sự am hiểu về Cái Chết cho phép bạn trì hoãn điều không thể tránh khỏi đó. Bằng việc liên kết linh hồn bạn vào kẻ địch ở gần, bạn truyền một số tổn thương phải gánh chịu cho chúng. {^n}^oChỉ cho phép một kẻ địch bị đánh dấu trong mọi thời điểm.
+
+tagGDX1Class08SkillName15A=Tiếng Gọi từ Huyệt Mộ ^g[^fCall of the Grave^g]{^-}
+tagGDX1Class08SkillDescription15A=Tuân lệnh từ chủ nhân của mình, các thuộc hạ của bạn phóng thích sức mạnh từ huyệt mộ bên trong, khiến chúng rơi vào trạng thái cuồng nộ.
+
+#ItemSkills
+
+tagGDX1RelicSkillTracker01A=Số lượng tay sai được triệu gọi hiện tại
+
+tagGDX1ItemSkillB101Name=Sóng Hoả Kích ^g[^fBlastwave^g]{^-}
+tagGDX1ItemSkillB101Desc=Một đợt Sóng Hoả Kích phóng ra từ đòn tấn công của bạn.
+
+tagGDX1ItemSkillB102Name=Huyết Nhục Đại Kích ^g[^fFleshwarped Strikes^g]{^-}
+tagGDX1ItemSkillB102Desc=Bàn tay ô uế từ Huyết Nhục Lãnh Chúa huỷ diệt kẻ địch của bạn với mỗi đòn tấn công. {^n}^oKhi được sử dụng như là Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái), Huyết Nhục Đại Kích tăng sức mạnh cho mỗi đòn tấn công.
+
+
+tagGDX1ItemSkillC101Name=Xé Nát Linh Hồn ^g[^fSoulsplit^g]{^-}
+tagGDX1ItemSkillC101Desc=Xé nát linh hồn kẻ địch bằng một loạt các đòn tấn công chết người.
+
+tagGDX1ItemSkillC102Name=Khí Giới Quân Đoàn ^g[^fLegionnaire's Firearms^g]{^-}
+tagGDX1ItemSkillC102Desc=Bằng việc huấn luyện thuần thục, súng ống giúp thu hẹp khoảng cách giữa chiến binh và các pháp sư. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ Khí Tầm Xa Một Tay.
+
+tagGDX1ItemSkillC103Name=Tầm Ngắm Hộ Vệ Mật Thất ^g[^fVaultkeeper's Aim^g]{^-}
+tagGDX1ItemSkillC103Desc=Những người bảo vệ mật thất của Hội Luminari cần được huấn luyện chuyên nghiệp nhất. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Tầm Xa.
+
+tagGDX1ItemSkillC104Name=Hấp Thụ Linh Hồn ^g[^fDrain Soul^g]{^-}
+tagGDX1ItemSkillC104Desc=Sap the target's very soul and restore some of your own vitality.
+
+tagGDX1ItemSkillC105Name=Ma Ảnh Đao ^g[^fPhantasmal Blade^g]{^-}
+tagGDX1ItemSkillC105Desc=Ném phi đao được yểm ma thuật bóng đêm có thể cắt đứt kẻ địch như cắt giấy vụn.
+
+tagGDX1ItemSkillC106Name=Linh Hồn Ô Uế ^g[^fCorrupted Soul^g]{^-}
+tagGDX1ItemSkillC106Desc=Giáp phục làm ô uế tâm hồn bạn, ban cho bạn sức mạnh hắc ám và khả năng kiểm soát thuộc hạ tốt hơn.
+
+tagGDX1ItemSkillC107Name=Dấu Ấn Bạc ^g[^fSilver Mark^g]{^-}
+tagGDX1ItemSkillC107Desc=Mục tiêu của bạn bị yểm một Dấu Ấn Ma Pháp Luminari khiến linh hồn của chúng bị phong ấn. Biểu tượng này đặc biệt hữu hiệu để chống lại các loại Quái vật Hỗn Nguyên.
+
+tagGDX1ItemSkillC108Name=Sức Mạnh của Kẻ Gieo Rắc Nỗi Sợ ^g[^fDreadwalker's Grace^g]{^-}
+tagGDX1ItemSkillC108Desc=Hấp thụ năng lượng toát ra từ những kẻ địch mới giết, phục hồi và củng cố thêm sức mạnh của bạn.
+
+tagGDX1ItemSkillC109Name=Sự Hiện Diện của Luminari ^g[^fLuminari Presence^g]{^-}
+tagGDX1ItemSkillC109Desc=Sự có mặt của một Người Phán Quyết từ Hội Luminari cũng đủ khiến cho những kẻ tà giáo và ma quỷ cảm thấy không yên ổn. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillC110Name=Độc Tiễn Bộc Phá ^g[^fPoison Bolt Burst^g]{^-}
+tagGDX1ItemSkillC110Desc=Một loạt các quả cầu độc tố phóng ra từ bạn.
+
+tagGDX1ItemSkillC111Name=Khí Độc ^g[^fNoxious Fumes^g]{^-}
+tagGDX1ItemSkillC111Desc=Phóng thích sự "hưng phấn" từ bên trong bạn.
+
+tagGDX1ItemSkillC112Name=
+tagGDX1ItemSkillC112Desc=
+
+tagGDX1ItemSkillC113Name=
+tagGDX1ItemSkillC113Desc=
+
+
+tagGDX1ItemSkillD101Name=Ý Chí của Uroboruuk ^g[^fUroboruuk's Will^g]{^-}
+tagGDX1ItemSkillD101Desc=Truyền ý chí của Bậc Thầy về Cái Chết vào kẻ địch, khiến những kẻ nhát gan bỏ chạy trong vô vọng.
+
+tagGDX1ItemSkillD102Name=Rào Chắn Xương Tàn ^g[^fBone Barrier^g]{^-} 
+tagGDX1ItemSkillD102Desc=Xương cốt của những kẻ địch gục ngã bao quanh bạn, bảo vệ bạn khỏi những đòn tấn công vật lý và các nhân tố gây hại khác.
+
+tagGDX1ItemSkillD103Name=Cú Táp của Thần Cuồng Nộ ^g[^fRavager's Bite^g]{^-}
+tagGDX1ItemSkillD103Desc=Vết cắn của Thần Cuồng Nộ rút sự sống khỏi cơ thể kẻ địch, hấp thụ sinh khí và làm chúng yếu ớt.
+
+tagGDX1ItemSkillD104Name=Điên Loạn ^g[^fInsanity^g]{^-}
+tagGDX1ItemSkillD104Desc=Linh hồn trong thanh rìu nhập vào kẻ địch, khiến chúng điên loạn và tuyệt vọng.
+
+tagGDX1ItemSkillD105Name=Sự Ràng Buộc của Cái Chết ^g[^fMortal Coil^g]{^-}
+tagGDX1ItemSkillD105Desc=Chất độc của Morguul đẩy kẻ địch đến bờ vực của cái chết một cách nhanh chóng.
+
+tagGDX1ItemSkillD106Name=Mũi Giáo Tẩm Độc ^g[^fVenomlance^g]{^-}
+tagGDX1ItemSkillD106Desc=Phóng ra một mũi giáo tẩm độc đâm xuyên các kẻ địch.
+
+tagGDX1ItemSkillD107Name=Sự Khéo Léo của Người Dân Malmouth ^g[^fMalmouth Ingenuity^g]{^-}
+tagGDX1ItemSkillD107Desc=Khả năng phối hợp hoàn hảo giữa tấn công và phòng thủ. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Tầm Xa .
+
+tagGDX1ItemSkillD108Name=Bức Tường Hắc Ám ^g[^fGrey Barrier^g]{^-}
+tagGDX1ItemSkillD108Desc=Pháp thuật bảo vệ của các Kỵ Sĩ Hắc Ám bạo vệ bạn khỏi những mối đe doạ hiểm độc.
+
+tagGDX1ItemSkillD109Name=Khước Từ Cái Chết ^g[^fDefy Death^g]{^-}
+tagGDX1ItemSkillD109Desc=Khi cái chết ập đến, bạn hiên ngang nói... Không.
+
+tagGDX1ItemSkillD110Name=Dịch Bệnh Hôi Thối ^g[^fFoul Contagion^g]{^-}
+tagGDX1ItemSkillD110Desc=Một dịch bệnh hôi thối xâm nhiễm kẻ địch, khiến chúng ngày một suy yếu khi bệnh tiến triển nặng hơn.
+
+tagGDX1ItemSkillD111Name=Cặp Mắt Quỷ ^g[^fFiend's Gaze^g]{^-}
+tagGDX1ItemSkillD111Desc=Đôi mắt của quỷ nhìn vào kẻ địch, đốt cháy linh hồn của chúng.
+
+tagGDX1ItemSkillD112Name=Bước Đi Lửa ^g[^fFlame Patch^g]{^-}
+tagGDX1ItemSkillD112Desc=Bạn bước tới đâu, lửa thiêu rụi mặt đất tới đó.
+
+tagGDX1ItemSkillD113Name=Ánh Sáng Chân Lý ^g[^fLight of Truth^g]{^-}
+tagGDX1ItemSkillD113Desc=Ánh sáng chân lý thần thánh rọi vào kẻ địch và buộc những kẻ yếu đuối phải phục tùng.
+
+tagGDX1ItemSkillD114Name=Gai Băng của Hagarrad ^g[^fSpines of Hagarrad^g]{^-}
+tagGDX1ItemSkillD114Desc=Phóng ra một loạt gai băng từ Ma Vật của Hagarrad vào kẻ địch.
+
+tagGDX1ItemSkillD115Name=Lồng Giam Bão Táp ^g[^fStorm Cage^g]{^-}
+tagGDX1ItemSkillD115Desc=Sấm sét ma thuật trói buộc chân của kẻ địch, giữ chúng ở lại một chỗ.
+
+tagGDX1ItemSkillD116Name=Móng Vuốt Bóng Đêm ^g[^fNightclaw^g]{^-}
+tagGDX1ItemSkillD116Desc=Cắt đứt kẻ địch bằng Đao Hắc Ám, xé toạt vết thương và kiềm hãm sự di chuyển.
+
+tagGDX1ItemSkillD117Name=Năng Lực của Malakor ^g[^fMalakor's Infusion^g]{^-}
+tagGDX1ItemSkillD117Desc=Dấu Ấn Ma Pháp của Malakor truyền cho bạn sự tĩnh tâm, chữa lành vết thương và gia tăng sức mạnh vũ khí bằng năng lượng nguyên tố.
+
+tagGDX1ItemSkillD118Name=Cơn Bão Ma Thuật ^g[^fArcane Devastation^g]{^-}
+tagGDX1ItemSkillD118Desc=At your command, arcane energy tears through the sky and barrages your foes.
+
+tagGDX1ItemSkillD119Name=Huyết Bộc Phá ^g[^fGutsplosion^g]{^-}
+tagGDX1ItemSkillD119Desc=Máu bắn ra tung toé từ kẻ địch bị giết.
+
+tagGDX1ItemSkillD120Name=Ngọn Lửa Kinh Hoàng ^g[^fDreadfire^g]{^-}
+tagGDX1ItemSkillD120Desc=Lửa Aether bao quanh và thiêu đốt kẻ địch trước khi nó lan tới những kẻ địch khác gần đó.
+
+tagGDX1ItemSkillD121Name=Ma Vật của Elgoloth ^g[^fRune of Elgoloth^g]{^-}
+tagGDX1ItemSkillD121Desc=Yểm kẻ địch bằng năng lượng từ Ma Vật của Elgoloth, gây giật điện và khiến chúng suy yếu với các loại sát thương nguyên tố.
+
+tagGDX1ItemSkillD122Name=Thèm Khát ^g[^fHungering Maw^g]{^-}
+tagGDX1ItemSkillD122Desc=Dùng khiên của bạn giáng đòn cực mạnh, đồng thời hút sinh khí của kẻ địch trong cơn thèm khát. {^n}^oYêu cầu trang bị một Vũ khí Cận Chiến.
+
+tagGDX1ItemSkillD123Name=Tầm Nhắm Người Canh Gác ^g[^fWatcher's Aim^g]{^-}
+tagGDX1ItemSkillD123Desc=Không bị cản trở bởi sức nặng của khiên, cú nhắm của những người canh gác luôn chuẩn xác. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Tầm Xa Một Tay.
+
+tagGDX1ItemSkillD124Name=Làn Sóng Tử Thần ^g[^fHellscourge^g]{^-}
+tagGDX1ItemSkillD124Desc=Những ngọn lửa hắc ám toả ra từ bạn, dễ dàng thiêu đốt kẻ địch.
+
+tagGDX1ItemSkillD125Name=Hoả Cuồng Nộ ^g[^fRageflame^g]{^-}
+tagGDX1ItemSkillD125Desc=Một ngọn lửa hắc ám bùng lên từ mặt đất.
+
+tagGDX1ItemSkillD126Name=Ngọn Lửa của Gar'dal ^g[^fFlame of Gar'dal^g]{^-}
+tagGDX1ItemSkillD126Desc=Ngọn lửa pháp thuật của Gar'dal bao lấy bạn, không gây hại cho bản thân và đồng đội nhưng đốt cháy bất cứ kẻ địch nào ở gần.
+
+tagGDX1ItemSkillD127Name=Lưỡi Đao của Đao Phủ ^g[^fExecutioner's Edge^g]{^-}
+tagGDX1ItemSkillD127Desc=Phóng thích một luồng đao xoáy cắt đứt đầu kẻ địch.
+
+tagGDX1ItemSkillD128Name=Sự Ngoan Cường của Đấu Sĩ ^g[^fGladiator's Persistence^g]{^-}
+tagGDX1ItemSkillD128Desc=Sự ngoan cường xuyên suốt những trận chiến vinh quang. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Cận Chiến Hai Tay và Vũ khí Tầm Xa Hai Tay.
+
+tagGDX1ItemSkillD129Name=Cách Thức Xảo Quyệt ^g[^fTreacherous Means^g]{^-}
+tagGDX1ItemSkillD129Desc=Chiến thắng bằng mọi cách. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Tầm Xa.
+
+tagGDX1ItemSkillD130Name=Quả Cầu Dung Nham ^g[^fMagma Orb^g]{^-}
+tagGDX1ItemSkillD130Desc=Phóng ra một quả cầu lửa thuần khiết có khả năng bắn ra các mảnh vụn khi va chạm.
+
+tagGDX1ItemSkillD131Name=Đao Phủ ^g[^fFleshcarver^g]{^-}
+tagGDX1ItemSkillD131Desc=Chém một nhát chết người vào kẻ địch, khiến những kẻ sống sót bị chảy máu liên tục rồi chết.
+
+tagGDX1ItemSkillD132Name=Lưỡi Đao Khiếp Sợ ^g[^fDreadblade^g]{^-}
+tagGDX1ItemSkillD132Desc=Tấn công kẻ địch bằng đòn đánh khiến da thịt tê cứng.
+
+tagGDX1ItemSkillD133Name=Thối Rữa Suy Yếu ^g[^fDebilitating Rot^g]{^-}
+tagGDX1ItemSkillD133Desc=Lây nhiễm kẻ địch bằng một loại dịch bệnh khiến cho thịt xương bị thối rữa từ từ đến khi chẳng còn sót lại thứ gì.
+
+tagGDX1ItemSkillD134Name=Phóng Thích Ma Pháp ^g[^fUnleash the Arcane^g]{^-}
+tagGDX1ItemSkillD134Desc=Năng lượng ma thuật toát ra từ bạn, mạnh đến nỗi khiến kẻ địch đứng gần bị tổn hại.
+
+tagGDX1ItemSkillD135Name=Phát Bắn May Mắn ^g[^fLucky Shot^g]{^-}
+tagGDX1ItemSkillD135Desc=Bắn một loạt đạn vào kẻ địch. Bằng việc nỗ lực nhiều lần như thế, sự may mắn dường như chẳng cần thiết. {^n}^oĐây là kỹ năng Tầm Xa được kích hoạt từ các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+
+tagGDX1ItemSkillD136Name=Ao Máu ^g[^fBlood Pool^g]{^-}
+tagGDX1ItemSkillD136Desc=Một cái ao đầy máu dơ bẩn xuất hiện dưới chân kẻ địch.
+
+tagGDX1ItemSkillD137Name=Sức Mạnh Nguyên Tố ^g[^fElemental Force^g]{^-}
+tagGDX1ItemSkillD137Desc=Một luồng năng lượng ma pháp toả ra từ bạn.
+
+tagGDX1ItemSkillD138Name=Tử Linh Đại Sư ^g[^fMaster of Spirits^g]{^-}
+tagGDX1ItemSkillD138Desc=Sự am hiểu về những kẻ nô dịch từ cõi chết của bạn khiến chúng trở nên bền bỉ và khó bị đánh bại.
+
+tagGDX1ItemSkillD139Name=Lời Thì Thầm từ Hư Vô ^g[^fWhispers of the Void^g]{^-}
+tagGDX1ItemSkillD139Desc=Cõi Hư Vô thì thầm vào tai bạn những lời mà kẻ phàm tục không thể nghe thấy.
+
+tagGDX1ItemSkillD140Name=Bùng Cháy ^g[^fCombustion^g]{^-}
+tagGDX1ItemSkillD140Desc=Tạo ra một ngọn lửa nướng chín kẻ địch và nung chảy giáp của chúng.
+
+tagGDX1ItemSkillD141Name=Dấu Ấn Đao Kiếm ^g[^fMark of the Blade^g]{^-}
+tagGDX1ItemSkillD141Desc=Mục tiêu bị đánh dấu bằng lưỡi đao, kết thúc số mệnh của chúng.
+
+tagGDX1ItemSkillD142Name=Lời Nguyền Hư Vô ^g[^fCurse of the Void^g]{^-}
+tagGDX1ItemSkillD142Desc=Mục tiêu bị yểm năng lượng hư không, những lời thì thầm điên loạn huỷ diệt kẻ địch từ bên trong.
+
+tagGDX1ItemSkillD143Name=Trường Bão Táp ^g[^fStormfield^g]{^-}
+tagGDX1ItemSkillD143Desc=Một vùng điện từ hình thành theo hiệu lệnh của bạn, gây giật điện bất cứ kẻ địch nào băng qua nó.
+
+tagGDX1ItemSkillD144Name=Mật Ngữ Hộ Vệ ^g[^fRuneguard^g]{^-}
+tagGDX1ItemSkillD144Desc=Mật ngữ khắc trên giáp chân bảo vệ bạn khỏi các loại tổn thương ma thuật.
+
+tagGDX1ItemSkillD145Name=Hoả Diệm Phong Bạo ^g[^fCinderwind^g]{^-}
+tagGDX1ItemSkillD145Desc=Triệu gọi một ngọn lửa sống thiêu đốt kẻ địch. {^n}^oHoả Diệm Phong Bạo hưởng thêm sức mạnh từ người chơi.
+
+tagGDX1ItemSkillD146Name=Tử Nhãn của Ravager ^g[^fRavager's Deathgaze^g]{^-}
+tagGDX1ItemSkillD146Desc=Cặp mắt của Ravager nhìn vào kẻ địch, làm suy yếu khả năng phòng thủ kẻ địch.
+
+tagGDX1ItemSkillD147Name=Tử Nhãn của Ravager ^g[^fRavager's Deathgaze^g]{^-}
+tagGDX1ItemSkillD147Desc=Cái nhìn chết chóc của Ravager hướng về kẻ địch, làm suy yếu giáp của chúng.
+
+tagGDX1ItemSkillD148Name=Đòn Đánh Hoang Dại ^g[^fFeral Lash^g]{^-}
+tagGDX1ItemSkillD148Desc=Primal energies lashes out at your foe.
+
+tagGDX1ItemSkillD149Name=Độc Trảm ^g[^fVenom Lash^g]{^-}
+tagGDX1ItemSkillD149Desc=A lash of venomous energy strikes your foe.
+
+tagGDX1ItemSkillD150Name=Ngọn Lửa Sinh Mệnh ^g[^fLifeblaze^g]{^-}
+tagGDX1ItemSkillD150Desc=Ngọn lửa sinh mệnh bao trùm kẻ địch, đốt cháy không chỉ da thịt của kẻ địch.
+
+tagGDX1ItemSkillD151Name=Hào Quang của Pháp Sư Độc ^g[^fVenomancer's Aura^g]{^-}
+tagGDX1ItemSkillD151Desc=Gia tăng sức mạnh vũ khí của bạn và đồng đội bằng một loại độc dược chết người. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillD152Name=Hào Quang Tử Linh Lãnh Chúa ^g[^fNecrolord's Aura^g]{^-}
+tagGDX1ItemSkillD152Desc=Gia tăng sực mạnh vũ khí của bạn và đồng đội bằng sức mạnh từ cái chết. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillD153Name=Hiện Thân của Ignaffar ^g[^fIgnaffar's Presence^g]{^-}
+tagGDX1ItemSkillD153Desc=Bao phủ giáp phục của bạn bằng ngọn lửa của Ignaffar. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillD154Name=Sự Bảo Hộ của Gildor ^g[^fGildor's Guard^g]{^-}
+tagGDX1ItemSkillD154Desc=Bạn sử dụng khiên hiệu quả hơn nhờ đoán trước các đòn đánh của kẻ địch, phản lại tất cả các đòn tấn công cận chiến của kẻ địch.
+
+tagGDX1ItemSkillD155Name=Hào Quang Ngũ Sắc ^g[^fPrismatic Aura^g]{^-}
+tagGDX1ItemSkillD155Desc=Tăng sức bền cho giáp phục của bạn và đồng đội bằng các mật ngữ bảo vệ. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillD156Name=Gai Aether ^g[^fAether Spines^g]{^-}
+tagGDX1ItemSkillD156Desc=Phóng ra một làn sóng gai xương bị nhiễm năng lượng Aether vào kẻ địch.
+
+tagGDX1ItemSkillD157Name=Cơn Cuồng Nộ của Krieg ^g[^fKrieg's Fury^g]{^-}
+tagGDX1ItemSkillD157Desc=Unleash a shockwave of aether energy upon your foes.
+
+tagGDX1ItemSkillD158Name=Cơn Thịnh Nộ của Krieg ^g[^fKrieg's Wrath^g]{^-}
+tagGDX1ItemSkillD158Desc=Stomp the ground with Krieg's unquenchable wrath.
+
+tagGDX1ItemSkillD159Name=Làn Sóng Bụi Gai ^g[^fBriar Wave^g]{^-}
+tagGDX1ItemSkillD159Desc=Một loạt các bụi gai phóng ra từ mặt đất và đâm xuyên kẻ địch.
+
+tagGDX1ItemSkillD160Name=Sức Mạnh Phục Thù ^g[^fAvenger's Might^g]{^-}
+tagGDX1ItemSkillD160Desc=Sức mạnh và sự bình tĩnh không ai sánh bằng. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Cận Chiến Hai Tay và Vũ khí Tầm Xa Hai Tay.
+
+tagGDX1ItemSkillD161Name=Thiên Nhiên Phục Hận ^g[^fNature's Avenger^g]{^-}
+tagGDX1ItemSkillD161Desc=Linh hồn những kẻ phục hận phóng ra từ bạn.
+
+tagGDX1ItemSkillD162Name=Bùng Nổ Ma Pháp ^g[^fArcane Cataclysm^g]{^-}
+tagGDX1ItemSkillD162Desc=Ma thuật phát nổ theo hiệu lệnh của bạn.
+
+tagGDX1ItemSkillD163Name=Sự Bảo Hộ Của Đá ^g[^fStone Ward^g]{^-}
+tagGDX1ItemSkillD163Desc=Rào chắn bằng đá bảo vệ bạn khỏi các tổn thương.
+
+tagGDX1ItemSkillD164Name=Thạch Hộ Vệ ^g[^fStoneguard^g]{^-}
+tagGDX1ItemSkillD164Desc=Thạch Hộ Vệ làm da của bạn trở nên cứng cáp chống lại các đòn đánh vật lý và phản lại chúng.
+
+tagGDX1ItemSkillD165Name=Xạ Thủ Hộ Vệ ^g[^fGunner's Aegis^g]{^-}
+tagGDX1ItemSkillD165Desc=Việc tấn công và phòng thủ tốt nhất nằm ở đầu nòng súng. {^n}^oĐây là kỹ năng bị động có tác dụng đối với Vũ khí Tầm Xa Một Tay.
+
+tagGDX1ItemSkillD166Name=Phát Bắn Rung Chuyển ^g[^fConcussive Round^g]{^-}
+tagGDX1ItemSkillD166Desc=Một phát bắn tốc độ cao đâm xuyên các mục tiêu.
+
+tagGDX1ItemSkillD167Name=Công Kích Gây Choáng ^g[^fStun Blast^g]{^-}
+tagGDX1ItemSkillD167Desc=Một loạt các phát bắn đâm xuyên và gây choáng mục tiêu. {^n}^oĐây là kỹ năng Tầm Xa được kích hoạt từ các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+
+tagGDX1ItemSkillD168Name=Vết Cắn của Korba ^g[^fKorba's Bite^g]{^-}
+tagGDX1ItemSkillD168Desc=Lưỡi đao sắt lạnh từ rìu của Korba cắt sâu vào kẻ địch.
+
+tagGDX1ItemSkillD169Name=Phóng Thích Hỗn Nguyên ^g[^fUnleash Chaos^g]{^-}
+tagGDX1ItemSkillD169Desc=Phóng thích năng lượng bóng đêm tích tụ vào kẻ địch dưới dạng một làn sóng huỷ diệt.
+
+tagGDX1ItemSkillD170Name=Làn Sóng Ma Pháp ^g[^fSpellscourge^g]{^-}
+tagGDX1ItemSkillD170Desc=Through sheer mental will, you turn the powers of magic itself into a physical force. {^n}^oThis ability must be toggled to maintain its effect.
+
+tagGDX1ItemSkillD171Name=Hấp Thụ Sinh Lực ^g[^fLifedrinker^g]{^-}
+tagGDX1ItemSkillD171Desc=Cơn thèm khát năng lượng sống là vô tận. Ngay cả khi bạn hấp thụ sinh khí từ một kẻ địch, những kẻ đứng gần đó cũng sẽ chịu chung số phận.
+
+tagGDX1ItemSkillD172Name=Tuyệt Kỹ của Belgothian ^g[^fBelgothian's Strikes^g]{^-}
+tagGDX1ItemSkillD172Desc=Tấn công kẻ địch bằng cơn thịnh nộ của Belgothian. Khi sử dụng như Kỹ năng Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái), Tuyệt Kỹ của Belgothian sẽ khuếch đại sức tấn công của bạn. {^n}^oCàng dồn nhiều đòn đánh, sức mạnh càng được tăng cường.
+
+tagGDX1ItemSkillD173Name=Tia Cổ Ngữ ^g[^fRunic Bolts^g]{^-}
+tagGDX1ItemSkillD173Desc=Sự kết hợp khéo léo từ các loại vũ khí chiến đấu và các thuộc tính pháp thuật tạo nên một loại sức mạnh nguy hiểm. {^n}^oKhi dùng làm Kỹ năng Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái), Tia Cổ Ngữ gây thêm nhiều sát thương.
+
+tagGDX1ItemSkillD174Name=Cổ Ngữ Phong Ấn ^g[^fRune Trap^g]{^-}
+tagGDX1ItemSkillD174Desc=Kiềm hãm kẻ địch bằng một loại bẫy có khắc các ký tự Cổ Ngữ.
+
+tagGDX1ItemSkillD175Name=Món Quà từ Kẻ Hắc Ám ^g[^fDark One's Gift^g]{^-}
+tagGDX1ItemSkillD175Desc=The vestments, anointed with the dead god's blood, offer a gift to the bearer in time of need.
+
+tagGDX1ItemSkillD176Name=Sự Sa Đoạ của Gargabol ^g[^fGargabol's Corruption^g]{^-}
+tagGDX1ItemSkillD176Desc=Lõi cây bị tha hoá của Vệ Thần Gargabol đốt cháy kẻ địch liên tục, khiến kẻ địch bị giày vò trong đau đớn.
+
+tagGDX1ItemSkillD177Name=Lửa Aether ^g[^fAetherblaze^g]{^-} 
+tagGDX1ItemSkillD177Desc=Một ngọn lửa ma thuật mang năng lượng Aether thuần khiết bùng lên từ chân kẻ địch.
+
+tagGDX1ItemSkillD178Name=Phát Bắn Hư Vô ^g[^fVoid Rounds^g]{^-}
+tagGDX1ItemSkillD178Desc=Bắn một loạt các tia năng lượng Hư Vô xuyên qua mục tiêu, làm mục tiêu như trở về cõi Hư Vô. {^n}^oĐây là kỹ năng hỗ trợ Vũ Khí Tầm Xa, ngoài ra còn cung cấp khả năng sử dụng hai Súng Ngắn cùng một lúc.
+
+tagGDX1ItemSkillD179Name=Hấp Thụ Ma Pháp ^g[^fSpelldrinker^g]{^-}
+tagGDX1ItemSkillD179Desc=Yểm vũ khí của bạn với các loại năng lượng ma thuật, hấp thụ một phần năng lượng từ pháp thuật của kẻ địch và phản lại chúng. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1ItemSkillD180Name=Triệu Gọi Huyết Nô Lệ ^g[^fCall Upon the Bloodbathed^g]{^-}
+tagGDX1ItemSkillD180Desc=Triệu gọi nô dịch đẫm máu của Nazaran, có thể sử dụng các loại ma thuật hút máu trên kẻ địch trước khi sự giày vò từ huyệt mộ gọi nó trở về. {^n}^oHuyết Nô Lệ hưởng thêm sức mạnh từ người chơi.
+tagGDX1ItemSkillD180SkillTracker=Số lượng Huyết Nô Lệ được triệu gọi hiện tại
+
+tagGDX1ItemSkillD181Name=Linh Hồn của Nazaran ^g[^fSoul of Nazaran^g]{^-}
+tagGDX1ItemSkillD181Desc=Triệu gọi linh hồn thống khổ của Lãnh Chúa Nazaran càn quét kẻ địch, biến sự đau đớn của chúng thành năng lượng sinh khí và truyền nó cho bạn. {^n}^oChỉ cho phép triệu gọi một Hồn Ma Lãnh Chúa Nazaran ở mọi thời điểm. Lãnh Chúa Nazaran hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+
+tagGDX1ItemSkillD182Name=Ký Hiệu của Lưỡi Băng ^g[^fMark of the Rimetongue^g]{^-}
+tagGDX1ItemSkillD182Desc=Ký Hiệu của Lưỡi Băng nổi tiếng vì gieo rắc sự hỗn loạn và hiểu lầm trong tầng lớp chính trị cao cấp. Khi sử dụng với kẻ địch, nó sẽ gây cảm giác giam cầm khó chịu tương tự.
+
+tagGDX1w=GrimDawn/images/evil
+
+
+#Component Skills
+
+tagGDX1CompSkillA101Name=Hiện Thân của Sức Mạnh ^g[^fPresence of Might^g]{^-}
+tagGDX1CompSkillA101Desc=Bạn vô hiệu các đòn đánh của kẻ địch dễ như trở bàn tay. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1CompSkillA102Name=Đao Kiếm Phong Bạo ^g[^fWhirling Blades^g]{^-}
+tagGDX1CompSkillA102Desc=Theo hiệu lệnh của bạn, những thanh đao bay xung quanh và cắt đứt những kẻ địch đến gần. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1CompSkillA103Name=Sét Dây Chuyền ^g[^fChain Lightning^g]{^-}
+tagGDX1CompSkillA103Desc=Sét phóng ra từ đầu ngón tay của bạn và truyền từ kẻ địch này sang kẻ địch khác.
+
+tagGDX1CompSkillA104Name=Độc Dược Thanh Trừng ^g[^fAcid Purge^g]{^-} 
+tagGDX1CompSkillA104Desc=Độc Dược bắn ra liên tục từ bàn tay bạn, duy trì đến khi nào bạn không còn nội lực.
+
+tagGDX1CompSkillA105Name=Aether Tha Hoá ^g[^fAether Corruption^g]{^-}
+tagGDX1CompSkillA105Desc=Năng lượng Aether bị ô uế xâm nhập cơ thể và lan truyền giữa các kẻ địch.
+
+tagGDX1CompSkillA106Name=Hoả Diệm Hư Không ^g[^fBurning Void^g]{^-}
+tagGDX1CompSkillA106Desc=Bằng việc bao phủ vũ khí với một lớp năng lượng hư không, bạn giáng một đòn cực mạnh và chính xác vào kẻ địch. Khi dùng với Vũ khí Tầm Xa đòn tấn công sẽ phát nổ khi va chạm với kẻ địch. {^n}^oCó thể được kích hoạt bằng tất cả các loại Tấn Công Mặc Định Bằng Vũ Khí (Chuột Trái).
+
+tagGDX1CompSkillA107Name=Gai Băng ^g[^fChillspikes^g]{^-}
+tagGDX1CompSkillA107Desc=Phóng hàng loạt gai băng đâm xuyên kẻ địch.
+
+tagGDX1CompSkillA108Name=Hoả Điện Kích ^g[^fStormfire^g]{^-}
+tagGDX1CompSkillA108Desc=Phóng ra một quả cầu mang năng lượng Lửa và Điện phát nổ khi va chạm kẻ địch.
+
+tagGDX1CompSkillA109Name=Đao Tẩm Độc ^g[^fBiting Blades^g]{^-}
+tagGDX1CompSkillA109Desc=Phóng ra lưỡi đao phủ axít bay đến cắt đứt kẻ địch trước khi quay trở về vị trí của bạn.
+
+tagGDX1CompSkillA110Name=Cộng Hưởng Ma Pháp ^g[^fArcane Resonance^g]{^-}
+tagGDX1CompSkillA110Desc=Sự thông thạo về ma thuật bảo vệ bạn khỏi những hiệu ứng gây hại. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1CompSkillB101Name=Huỷ Diệt ^g[^fAnnihilation^g]{^-}
+tagGDX1CompSkillB101Desc=Sức mạnh từ trong huy hiệu huỷ diệt kẻ địch.
+
+tagGDX1CompSkillB102Name=Tổ Tiên Hộ Mệnh ^g[^fAncestral Ward^g]{^-}
+tagGDX1CompSkillB102Desc=Sức mạnh từ huy hiệu bảo vệ bạn khỏi những thế lực không tưởng.
+
+tagGDX1CompSkillB103Name=Sự Ràng Buộc Cổ Xưa ^g[^fEldritch Binding^g]{^-}
+tagGDX1CompSkillB103Desc=Ràng buộc kẻ địch bằng ý chí của bạn. {^n}^o(Kỹ năng hỗ trợ bị động)
+
+
+
+#Relic Skills
+
+tagGDX1RelicSkillB101Name=Hơi Thở Tử Thần ^g[^fBreath of Death^g]{^-}
+tagGDX1RelicSkillB101Desc=Một luồng năng lượng hút máu phóng ra từ bạn.
+
+tagGDX1RelicSkillB102Name=Quả Cầu Linh Hồn ^g[^fSpectral Bolt^g]{^-}
+tagGDX1RelicSkillB102Desc=Phóng ra một quả cầu mang năng lượng từ cõi âm hút hết sức lực của kẻ địch.
+
+tagGDX1RelicSkillB103Name=Nhiệt Huyết ^g[^fFervor^g]{^-}
+tagGDX1RelicSkillB103Desc=Rơi vào trạng thái cuồng nhiệt, háo hức muốn xé toạt kẻ địch thành từng mảnh.
+
+tagGDX1RelicSkillB104Name=Thuẫn Kích ^g[^fShield Bash^g]{^-}
+tagGDX1RelicSkillB104Desc=Dùng khiên giáng đòn cực mạnh vào kẻ địch, làm chúng choáng váng. {^n}^oYêu cầu trang bị Khiên và Vũ khí Cận Chiến.
+
+tagGDX1RelicSkillB105Name=Triệu Hồi Cua Ma ^g[^fSummon Crab Spirit^g]{^-}
+tagGDX1RelicSkillB105Desc=Ràng buộc linh hồn một sinh vật từ đầm lầy và bắt nó phục tùng bạn, khiến kẻ địch rét buốt bằng những đòn công kích băng giá. {^n}^oChỉ cho phép triệu gọi một con Cua Ma ở mọi thời điểm. Cua Ma hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+tagGDX1RelicSkillB105Name_PetSkill=Càng Cua ^g[^fCrab Claws^g]{^-}
+
+tagGDX1RelicSkillC101Name=Cái Chết ^g[^fMortality^g]{^-}
+tagGDX1RelicSkillC101Desc=Bạn làm rung chuyển sự cân bằng giữa sự sống và cái chết, dùng sức mạnh từ hai thái cực đó truyền vào bản thân và các thuộc hạ.
+
+tagGDX1RelicSkillC102Name=Lưỡi Đao Thanh Tẩy ^g[^fCleansing Blade^g]{^-}
+tagGDX1RelicSkillC102Desc=Phóng ra một lưỡi đao ma thuật cắt đứt kẻ địch. Nó sẽ quay về vị trí ban đầu sau khi bay đến khoảng cách tối đa cho phép.
+
+tagGDX1RelicSkillD101Name=Tia Ô Uế ^g[^fImpure Blast^g]{^-}
+tagGDX1RelicSkillD101Desc=Phóng thích năng lượng ma thuật bị ô uế vào kẻ địch, tước đi sinh lực của chúng.
+
+tagGDX1RelicSkillD102Name=Hàn Băng Phục Hận ^g[^fChilling Vengeance^g]{^-}
+tagGDX1RelicSkillD102Desc=Phóng thích một luồng năng lượng băng vào những kẻ cả gan tấn công bạn.
+
+tagGDX1RelicSkillD103Name=Triệu Hồi Nô Lệ Xương ^g[^fSummon Skeletal Servant^g]{^-}
+tagGDX1RelicSkillD103Desc=Ràng buộc hài cốt của hàng trăm linh hồn và bắt chúng phục tùng bạn. Sinh vật khủng khiếp này bổ đôi kẻ địch và trói buộc chúng bằng bẫy xương. {^n}^oChỉ cho phép triệu gọi một Nô Lệ Xương ở mọi thời điểm. Nô Lệ Xương hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+tagGDX1RelicSkillD103Name_PetSkill=Móng Vuốt Xương ^g[^fSkeletal Claws^g]{^-}
+
+tagGDX1RelicSkillD104Name=Nguyên Tố Huỷ Diệt ^g[^fElemental Bane^g]{^-}
+tagGDX1RelicSkillD104Desc=Phóng ra một tia năng lượng nguyên tố thuần khiết đánh bật những kẻ địch đang tiến đến.
+
+tagGDX1RelicSkillD105Name=Sức Mạnh Huỷ Diệt ^g[^fDoomforce^g]{^-}
+tagGDX1RelicSkillD105Desc=Phóng thích một luồng năng lượng vật lý mạnh đến nỗi hạ gục mục tiêu và làm các kẻ địch ở gần choáng váng.
+
+tagGDX1RelicSkillD106Name=Hoả Đột Kích ^g[^fBlazing Charge^g]{^-}
+tagGDX1RelicSkillD106Desc=Lao mình vào trận chiến dưới danh nghĩa của Empyrion và thiêu đốt kẻ địch bằng ngọn lửa thánh. {^n}^oYêu cầu trang bị một Vũ khí Cận Chiến. Khi dùng với khiên, sát thương của khiên được thêm vào.
+
+tagGDX1RelicSkillD107Name=Luồng Hỗn Nguyên ^g[^fChaos Surge^g]{^-}
+tagGDX1RelicSkillD107Desc=Phóng thích một luồng năng lượng huỷ diệt xuyên thấu các mục tiêu rồi quay trở về vị trí của bạn.
+
+tagGDX1RelicSkillD108Name=Đòn Kết Liễu của Nidalla ^g[^fNidalla's Final Strike^g]{^-}
+tagGDX1RelicSkillD108Desc=Một tuyệt kỹ được Dạ Đao Đại Sư Nidalla ưa thích, ném ra một loạt đao đâm xuyên mục tiêu, đồng thời làm vết thương của chúng bị nhiễm độc tẩm trên đó. Các lưỡi đao sau đó sẽ quay về vị trí ban đầu.
+
+tagGDX1RelicSkillD109Name=Vòng Lặp Thời Gian ^g[^fTime Loop^g]{^-}
+tagGDX1RelicSkillD109Desc=Hành động của bạn khiến thời gian bị bóp méo. {^n}^oYêu cầu trang bị Pháp Khí.
+
+tagGDX1RelicSkillD110Name=Huyết Châm ^g[^fBlood Spine^g]{^-}
+tagGDX1RelicSkillD110Desc=Phóng ra một loạt gai xương tẩm máu vào kẻ địch.
+
+tagGDX1RelicSkillD111Name=Đường Chém Tử Thần ^g[^fReaping Arc^g]{^-}
+tagGDX1RelicSkillD111Desc=Vung vũ khí và chém theo hình vòng cung, chém đứt kẻ địch và tước đoạt linh hồn của chúng. {^n}^oYêu cầu trang bị một Vũ khí Cận Chiến.
+
+tagGDX1RelicSkillD112Name=Lửa Địa Ngục của Ignaffar ^g[^fIgnaffar's Combustion^g]{^-}
+tagGDX1RelicSkillD112Desc=Di vật cổ phát ra ngọn lửa huỷ diệt vô hại với bạn và đồng đội, nhưng thiêu cháy những kẻ địch nào đến quá gần.
+
+tagGDX1RelicSkillD113Name=Nhuệ Khí của Mogdrogen ^g[^fMogdrogen's Ardor^g]{^-}
+tagGDX1RelicSkillD113Desc=Phước lành từ vị thần của muôn thú vây quanh bạn và thuộc hạ, bảo vệ bạn khỏi các mối đe doạ. {^n}^oKỹ năng này cần được kích hoạt một lần để duy trì hiệu quả.
+
+tagGDX1RelicSkillD114Name=Triệu Hồi Kẻ Truy Hồn ^g[^fSummon Deathstalker^g]{^-}
+tagGDX1RelicSkillD114Desc=Triệu gọi Kẻ Truy Hồn, một thực thể đáng sợ hình thành từ cơn thịnh nộ của Mogdrogen, có khả năng làm suy yếu Kháng Vật Lý, Kháng Độc và Kháng Chảy Máu. {^n}^oChỉ cho phép triệu gọi một Kẻ Truy Hồn ở mọi thời điểm. Kẻ Truy Hồn hưởng thêm sức mạnh từ Điểm thưởng Thuộc Hạ.
+tagGDX1RelicSkillD114_Skill=Hào Quang Bóng Tối ^g[^fAura of Darkness^g]{^-}
+tagGDX1RelicSkillD114_Desc=Một sinh vật từ bóng đêm bám theo chân kẻ địch, làm suy yếu Kháng Vật Lý, Kháng Độc và Kháng Chảy Máu.
+
+#ConsumableSkills
+tagGDX1ConsumableSkill_B101=Nước Ép Ugden ^g[^fUgdenjuice^g]{^-}
+tagGDX1ConsumableSkill_B101Desc=Làm cho bạn cảm thấy ấm áp và dễ chịu.
+
+tagGDX1ConsumableSkill_B102=Thuốc Đắp Ugden ^g[^fUgdensalve^g]{^-}
+tagGDX1ConsumableSkill_B102Desc=Phục hồi và khiến xương cứng cáp hơn.
+
+tagGDX1ConsumableSkill_B103=Thuốc Bôi Sẹo Quỷ ^g[^fVilescar Ointment^g]{^-}
+tagGDX1ConsumableSkill_B103Desc=Giúp vết thương khô lại nhanh hơn.
+
+tagGDX1ConsumableSkill_B104=Thần Dược Dranghoul ^g[^fElixir of the Dranghoul^g]{^-}
+tagGDX1ConsumableSkill_B104Desc=Khiến bạn tràn đầy sự phẫn nộ của Dranghoul.
+
+tagGDX1ConsumableSkill_B105=Thần Dược Mogdrogen ^g[^fElixir of Mogdrogen^g]{^-}
+tagGDX1ConsumableSkill_B105Desc=Khiến mối quan hệ giữa bạn và thuộc hạ khăng khít hơn.
+
+tagGDX1ConsumableSkill_F101=Tinh Dầu Ma Thuật ^g[^fHex Oil^g]{^-}
+tagGDX1ConsumableSkill_F101Desc=Bao phủ vũ khí một hỗn hợp ma thuật.
+
+tagGDX1ConsumableSkill_F102=Ma Dược Nguyền Rủa ^g[^fCursed Tincture^g]{^-}
+tagGDX1ConsumableSkill_F102Desc=Phóng thích một lời nguyền tàn ác vào kẻ địch.
+
+tagGDX1ConsumableSkill_F103=Tinh Dầu Kháng Aether ^g[^fAetherward Oil^g]{^-}
+tagGDX1ConsumableSkill_F103Desc=Bao phủ vũ khí một lớp hỗn hợp có khả năng chống chịu năng lượng Aether.
+
+tagGDX1ConsumableSkill_F104=Ma Dược Hoả Lôi ^g[^fStormflame Tincture^g]{^-}
+tagGDX1ConsumableSkill_F104Desc=Phóng thích một vụ nổ mang năng lượng Lửa và Điện vào kẻ địch ở gần.
+
+tagGDX1ConsumableSkill_F105=Tinh Dầu Kẻ Khát Máu ^g[^fHungerer Oil^g]{^-}
+tagGDX1ConsumableSkill_F105Desc=Bao phủ vũ khí một lớp hỗn hợp được bào chế từ Kẻ Khát Máu.
+
+tagGDX1ConsumableSkill_F106=Ma Dược Oán Linh ^g[^fVile Tincture^g]{^-}
+tagGDX1ConsumableSkill_F106Desc=Một hồn ma tà ác ám kẻ thù của bạn.
+tagGDX1ConsumableSkill_F106PetSkill=Bàn Tay Oán Linh ^g[^fWraith's Touch^g]{^-}
+
+tagGDX1ConsumableSkill_F107=Thuốc Thông Tuệ ^g[^fPotion of Clarity^g]{^-}
+tagGDX1ConsumableSkill_F107Desc=Bình thuốc khiến bạn trở nên sáng suốt hơn.
+
+
+#SkillsQuest
+
+tagQuestSkill_A101=Malostria Hộ Mệnh ^g[^fMalostria's Ward^g]{^-}
+tagQuestSkill_A101Desc=Bạn được bảo vệ bởi Thánh mẫu Malostria, bảo vệ bạn khỏi những linh hồn ma quỷ.
+
+tagQuestSkill_A102=Hội Phù Thuỷ Hộ Mệnh ^g[^fCoven Ward^g]{^-}
+tagQuestSkill_A102Desc=Được dựng nên bởi Hội Phù Thuỷ để xua đuổi ma quỷ.
+
+tagQuestSkill_A103=Wendigo Hộ Mệnh ^g[^fWendigo Ward^g]{^-}
+tagQuestSkill_A103Desc=Được dựng nên bởi dân làng Barrowholm để xua đuổi ma quỷ ở Đầm Ugden.
+
+
+#SkillDevotion
+
+tagGDX1Devotion_A101=Hươu {^n}^g[^fStag^g]{^-}
+tagGDX1Devotion_A101Desc=Hươu là vệ thần của tự nhiên, dịu dàng nhưng cũng rất cương trực.
+tagGDX1Devotion_A102=Người Cùng Khổ {^n}^g[^fWretch^g]{^-}
+tagGDX1Devotion_A102Desc=Người Cùng Khổ quằn quại giữa trời đêm, vì sự ô uế từ Vị Thần Hấp Hối đang dần ăn sâu vào da thịt.
+tagGDX1Devotion_A103=Bút Lông Ngỗng {^n}^g[^fQuill^g]{^-}
+tagGDX1Devotion_A103Desc=Truyền thuyết kể rằng chiếc bút lông ngỗng này đã được các vị thần sử dụng để viết thánh chỉ ban cho loài người. Mực của nó chính là bầu trời đêm vô tận. 
+tagGDX1Devotion_A104=Cóc {^n}^g[^fToad^g]{^-}
+tagGDX1Devotion_A104Desc=Con cóc tượng trưng cho sự hỗn loạn, một biểu trưng được ưa chuộng bởi các Vu Thuật Sư và Thuật Sĩ.
+
+tagGDX1Devotion_B101=Murmur - Nữ Thần Đồn Thổi {^n}^g[^fMurmur, Mistress of Rumors^g]{^-}
+tagGDX1Devotion_B101Desc=Một số người xem trọng sức mạnh của lời nói, nhưng chẳng ai biết rõ tác hại to lớn từ việc lan truyền những lời đồn thổi bằng Murmur. Tương truyền rằng những tin đồn từ miệng lưỡi xảo quyệt của Murmur đã gây ra vô số những cuộc xung đột đẫm máu, thậm chí người ta còn kể rằng, các vị thần đã đấu đá lẫn nhau chỉ vì mưu kế xảo quyệt của bà ta.
+tagGDX1Devotion_B102=Quyền Trượng của Rattosh {^n}^g[^fStaff of Rattosh^g]{^-}
+tagGDX1Devotion_B102Desc=Tương truyền rằng, quyền trượng có cánh của Rattosh chính là chìa khoá để mở cánh cổng liên thông giữa thế giới vật chất và thế giới linh hồn. Khi nó soi sáng rõ nhất trên bầu trời, người ta cho rằng đó là thời khắc ranh giới giữa sự sống và cái chết là mỏng nhất.
+tagGDX1Devotion_B103=Chim Phượng Hoàng của Alladrah {^n}^g[^fAlladrah's Phoenix^g]{^-}
+tagGDX1Devotion_B103Desc=Là vật nuôi trung thành của các vị thần, chim Phượng Hoàng của Alladrah quét một ngọn lửa đỏ rực giữa trời đêm mỗi khi nó bay qua.
+tagGDX1Devotion_B104=Typhos - Người Giám Ngục Linh Hồn {^n}^g[^fTyphos, the Jailor of Souls^g]{^-}
+tagGDX1Devotion_B104Desc=Typhos là đầy tớ trung thành của Rattosh, một thợ săn chuyên bắt những linh hồn lang thang dám chống đối cuộc viếng thăm của Cổ Xe Ngựa Tử Thần.
+tagGDX1Devotion_B105=Hạc Cầm của Thi Nhân {^n}^g[^fBard's Harp^g]{^-}
+tagGDX1Devotion_B105Desc=Âm nhạc của thi nhân Gallia có sức mê hoặc mạnh đến nỗi những vị thần đã đưa cô ấy lên trời để họ có thể thưởng thức chúng mãi mãi.
+
+tagGDX1Devotion_C101=Ultos - Người Điều Khiển Bão Táp {^n}^g[^fUltos, Shepherd of Storms^g]{^-}
+tagGDX1Devotion_C101Desc=Trong truyền thuyết của người dân Arkovia, Ultos là vị thần có vai vế thấp nhất, song lại nắm trong tay biểu tượng quyền uy nhất, vì mưa của ông ta khiến cây trồng phát triển và những tia sét của ông ta có thể gây ra sự huỷ diệt không kể xiết. Mỉa mai thay so với vị thế của mình, Ultos lại là vị thần duy nhất còn được thờ phụng từ sau khi đế chế Arkovia bị huỷ diệt.
+tagGDX1Devotion_C102=Ishtak - Nữ Thần Mùa Xuân {^n}^g[^fIshtak, the Spring Maiden^g]{^-}
+tagGDX1Devotion_C102Desc=Rất nhiều người ở thời đại đế chế Arkovia còn hưng thịnh đã tìm đến Ishtak khi muốn phục hồi thương tật. Vì mọi sinh vật sống đều là hậu duệ của Nữ Thần Mùa Xuân, và tất cả sẽ tìm thấy sự thanh thản trong vòng tay dịu dàng của bà ấy.
+tagGDX1Devotion_C103=Thạch Thánh Mẫu Vire {^n}^g[^fVire, the Stone Matron^g]{^-}
+tagGDX1Devotion_C103Desc=Thường được mô tả trong truyền thuyết của người Arkovia như là Thánh Mẫu của các vị thần, và cũng là vị thần quyền lực nhất, Thạch Thánh Mẫu đại diện cho chính lục địa Cairn: sự kiên cường và sức mạnh của đá, không bị xao động trước những biến đổi của thời cuộc.
+tagGDX1Devotion_C104=Attak Seru - Ảo Ảnh Thần {^n}^g[^fAttak Seru, the Mirage^g]{^-}
+tagGDX1Devotion_C104Desc=Attak Seru là Thánh Mẫu của những người sử dụng ma thuật, người hộ mạng của những kẻ dám sử dụng quyền năng ma thuật. Tất cả các nghi lễ của người Arkovia đều khắc biểu tượng của Attak Seru vào vòng tròn cổ ngữ để đề phòng bất trắc; tuy nhiên sự bảo vệ của bà ta cũng không thể kháng lại những lời nguyền hiểm độc của các tử linh pháp sư.
+tagGDX1Devotion_C105=Rattosh - Người Bảo Vệ Bức Màn Thực Tại {^n}^g[^fRattosh, the Veilwarden^g]{^-}
+tagGDX1Devotion_C105Desc=Ẩn mình trong bóng tối, người bảo vệ vĩ đại của Arkovia canh giữ ranh giới giữa sự sống và cái chết, đảm bảo rằng không một linh hồn quỷ dữ nào có thể trốn thoát khỏi thế giới linh hồn để gieo rắc tai ương cho trần gian. Khi Lời Nguyền của Arkovia lan ra khắp nơi, người ta đã van xin Rattosh ban cho một sự cứu rỗi, nhưng điều đó đã không bao giờ trở thành hiện thực.
+
+tagGDX1DevotionEffectB101=Lời Đồn ^g[^fRumor^g]{^-}
+tagGDX1DevotionEffectB101Desc=Những sự thật bị bóp méo qua lời lẽ của Murmur lan truyền giữa các kẻ địch như một lời đồn không thể dập tắt và phá huỷ tâm trí của chúng
+tagGDX1DevotionEffectB102=Lửa Phượng Hoàng ^g[^fPhoenix Fire^g]{^-}
+tagGDX1DevotionEffectB102Desc=Lông vũ cháy rực của phượng hoàng bay quanh bạn, tạo thành rào chắn bảo vệ bạn đồng thời thiêu đốt bất cứ kẻ địch nào tới quá gần.
+tagGDX1DevotionEffectB103=Nguồn Cảm Hứng ^g[^fInspiration^g]{^-}
+tagGDX1DevotionEffectB103Desc=Giai điệu của Gallia tạo nguồn cảm hứng cho bạn và đồng đội để tiến về phía trước và vượt qua mọi bất trắc.
+
+tagGDX1DevotionEffectC101=Bàn Tay Ultos ^g[^fHand of Ultos^g]{^-}
+tagGDX1DevotionEffectC101Desc=Cơn thịnh nộ của Thần Bão Táp phóng ra từ đầu ngón tay của bạn, lan truyền giữa các kẻ địch một sức mạnh huỷ diệt của sấm sét.
+tagGDX1DevotionEffectC102=Vệ Thần của Tự Nhiên ^g[^fNature's Guardians^g]{^-}
+tagGDX1DevotionEffectC102Desc=Làn gió xuân mát rượi bao quanh bạn như một bức màn bảo vệ trong khi thuộc hạ của bạn trỗi dậy để bảo vệ trật tự của giới tự nhiên.
+tagGDX1DevotionEffectC103=Nắm Đấm của Thánh Mẫu Vire ^g[^fFist of Vire^g]{^-}
+tagGDX1DevotionEffectC103Desc=Nắm đấm uy quyền của Thánh Mẫu Vire trỗi dậy từ mặt đất, khuất phục kẻ địch bằng sức mạnh của đất.
+tagGDX1DevotionEffectC104=Luồng Ma Pháp ^g[^fArcane Currents^g]{^-}
+tagGDX1DevotionEffectC104Desc=Khắc một ký hiệu cổ xưa vào mặt đất liên tục phát ra những luồng năng lượng ma thuật để tấn công kẻ địch. {^n}^oLuồng Ma Pháp hưởng thêm sức mạnh từ người chơi.
+tagGDX1DevotionEffectC104PetSkill=Triều Dâng ^g[^fSurge^g]{^-}
+tagGDX1DevotionEffectC105=Ý Chí của Rattosh ^g[^fWill of Rattosh^g]{^-}
+tagGDX1DevotionEffectC105Desc=Đánh dấu kẻ địch bằng biểu tượng của Rattosh. Vận mệnh của chúng bị phong ấn, định đoạt bởi Typhos, đầy tớ của Rattosh.
+
+
+#SkillsReallocator
+tagReclaimMastery=Bạn cần lấy lại tất cả các điểm từ kỹ năng xa nhất trong bảng kỹ năng trước khi thu hồi điểm từ Ống Kỹ Năng.
+tagDecreaseMasteryError=Bạn không thể thay đổi bảng kỹ năng đã chọn.
+
+
+#EnemySkills
+
+tagGDX1EnemySkillA01=Hấp Thụ Linh Hồn ^g[^fSiphon Souls^g]{^-}
+tagGDX1EnemySkillA01_Desc=Hồn Ma Báo Oán đang hấp thụ dần linh hồn của bạn, hút cạn sinh khí đồng thời khiến bạn dễ bị tổn thương bởi sát thương Aether và Sinh Khí.
+
+tagGDX1EnemySkillA02=Điềm Gở ^g[^fIll Omen^g]{^-}
+tagGDX1EnemySkillA02_Desc=Sự hiện diện của một Tử Linh Pháp Sư cũng đủ khiến cho kẻ địch hốt hoảng. Bạn phát ra một tiếng rên rỉ ma quái khiến những kẻ địch yếu đuối mất đi ý chí, đồng thời gieo rắc sự hỗn loạn và sợ hãi vào các kẻ địch.
+
+tagGDX1EnemySkillA03=Tiếng Thét của Wendigo ^g[^fWendigo Howl^g]{^-}
+tagGDX1EnemySkillA03_Desc=Tiếng thét của Wendigo làm bạn lung lay ý chí, giảm tất cả các khả năng kháng chịu.
+
+tagGDX1EnemySkillA04=Hào Quang Đau Đớn ^g[^fAnguish Aura^g]{^-}
+tagGDX1EnemySkillA04_Desc=Nỗi thống khổ của Hồn Ma Báo Oán làm bạn suy yếu.
+
+tagGDX1EnemySkillA05=Hào Quang Kinh Hoàng ^g[^fDread Aura^g]{^-}
+tagGDX1EnemySkillA05_Desc=Hồn Ma Báo Oán gieo nỗi sợ hãi vào bạn, khiến bạn dễ bị tổn thương bởi sát thương Aether, Sinh Khí và Nguyên Tố đồng thời làm bạn di chuyển chậm lại.
+
+tagGDX1EnemySkillA06=Phun Trào Đau Đớn ^g[^fEruption of Anguish^g]{^-}
+tagGDX1EnemySkillA06_Desc=Sự khủng khiếp của một Hồn Ma Báo Oán làm bạn suy yếu và giảm phòng thủ Vật Lý.
+
+tagGDX1EnemySkillA07=Phun Trào Sợ Hãi ^g[^fEruption of Dread^g]{^-}
+tagGDX1EnemySkillA07_Desc=Sự khủng khiếp của một Hồn Ma Báo Oán khiến bạn tràn đầy nỗi sợ hãi, làm bạn dễ bị tổn thương bởi sát thương Aether, Sinh Khí và Nguyên Tố đồng thời làm bạn di chuyển chậm lại.
+
+tagGDX1EnemySkillA08=Wicker Prison ^g[^fArcane Currents^g]{^-}
+tagGDX1EnemySkillA08_Desc=The cannibal trapped you within a wicker prison, making you easy prey for the others.
+
+tagGDX1EnemySkillA09=Liên Kết Máu ^g[^fBlood Link^g]{^-}
+tagGDX1EnemySkillA09_Desc=Một kẻ ăn thịt người ràng buộc bạn bằng một Liên Kết Máu. Di chuyển xa hơn sẽ cắt đứt nó.
+
+tagGDX1EnemySkillA10=Sự Hiện Diện Ngạt Thở ^g[^fChoking Presence^g]{^-}
+tagGDX1EnemySkillA10_Desc=Sương mù phát ra bởi The Bloater đe doạ tính mạng của bạn, giảm Sinh Lực Tối Đa, Tỷ Lệ Phục Hồi Sinh Lực và Tỷ Lệ Phục Hồi Nội Lực.
+
+tagGDX1EnemySkillA11=Hào Quang Khống Chế ^g[^fAura of Oppression^g]{^-}
+tagGDX1EnemySkillA11_Desc=Sự hiện diện của quái vật Chthon này bao phủ bạn bằng bóng đêm, giảm Sinh Lực Tối Đa và làm bạn chậm chạp.
+
+tagGDX1EnemySkillA12=Hào Quang Bóng Đêm ^g[^fAura of Darkness^g]{^-}
+tagGDX1EnemySkillA12_Desc=Một sinh vật bóng đêm đang săn lùng bạn, phá huỷ sức kháng chịu của bạn.
+
+
+tagGDX1EnemySkillB01=Hào Quang Ngừng Thời Gian ^g[^fTime Stop Aura^g]{^-}
+tagGDX1EnemySkillB01_Desc=Bạn đang chịu ảnh hưởng từ một thực thể có khả năng bóp méo thời gian, khiến bạn chậm chạp.
+
+tagGDX1EnemySkillB02=Huyết Liên Kết ^g[^fBlood Link^g]{^-}
+tagGDX1EnemySkillB02_Desc=Bạn bị ràng buộc với kẻ địch bằng một mối liên kết có khả năng hút máu. Chạy thật xa sẽ làm mối liên kết này bị đứt.
+
+tagGDX1EnemySkillD01=Dịch Sốt Đầm Ugden ^g[^fUgdenbog Fever^g]{^-}
+tagGDX1EnemySkillD01_Desc=Một dịch bệnh chết người làm tê liệt tâm thần và phô bày điểm yếu của người mắc.
+
+tagGDX1EnemySkillD02=Tia Hút Máu ^g[^fSiphoning Link^g]{^-}
+tagGDX1EnemySkillD02_Desc=Kẻ thù ràng buộc bạn bằng Tia Hút Máu, khiến điểm yếu của bạn bị lộ ra. Chạy thật xa để cắt đứt mối liên kết này.
+
+tagGDX1EnemySkillD03=Hấp Thụ Linh Hồn ^g[^fSiphon Souls^g]{^-}
+tagGDX1EnemySkillD03_Desc=Linh hồn của bạn đang bị hút cạn dần, làm suy yếu phòng thủ và sinh khí của bạn.
+
+tagGDX1EnemySkillD04=Hào Quang của Chthon ^g[^fChthonic Aura^g]{^-}
+tagGDX1EnemySkillD04_Desc=Năng lượng hư không thuần khiết bao quanh khối đá này, tăng cường sức mạnh cho quái vật Chthon và gây hại cho sinh vật sống.
+
+tagGDX1EnemySkillD05=Hào Quang Chết Chóc ^g[^fAura of Death^g]{^-}
+tagGDX1EnemySkillD05_Desc=Sự hiện diện của Gabbal'Thunn's làm suy yếu ý chí sống sót, giảm Tốc Độ và Khả Năng Phòng Thủ.
+
+tagGDX1EnemySkillD06=Dấu Ấn của Lửa Aether ^g[^fGreater Mark of Aetherfire^g]{^-}
+tagGDX1EnemySkillD06_Desc=Lửa Aether đốt cháy linh hồn bạn, khiến bạn dễ bị tổn thương bởi Nguyên Tố và Aether.
+
+tagGDX1EnemySkillD07=Sự Hiện Diện của Ma Thần Cuồng Nộ ^g[^fRavager's Presence^g]{^-}
+tagGDX1EnemySkillD07_Desc=Bạn run rẩy trước sự hiện diện của Ma Thần Cuồng Nộ, một linh hồn Wendigo, phá vỡ Phòng Thủ đồng thời làm suy giảm Sinh Lực và tỷ lệ Phục Hồi Sinh Lực.
+
+tagGDX1EnemySkillD08=Aether Bao Phủ ^g[^fOverwhelming Aether^g]{^-}
+tagGDX1EnemySkillD08_Desc=Sự hiện diện của Theoden đe doạ huỷ diệt cơ thể bạn, gây Sát thương Aether và giảm Khả Năng Phòng Thủ.
+
+tagGDX1EnemySkillD09=Bùa Hộ Mệnh của Larria ^g[^fLarria's Wards^g]{^-}
+tagGDX1EnemySkillD09_Desc=Sào huyệt của Larria được trấn giữ bằng một loại bùa cực mạnh, gây hại cho những kẻ lạ mặt đồng thời bảo vệ bà ta.
+
+tagGDX1EnemySkillD10=Aether Thiêu Đốt ^g[^fAether Singe ^g]{^-}
+tagGDX1EnemySkillD10_Desc=Bạn bị thiêu đốt bởi một khối pha lê Aether ở gần, ràng buộc bạn bằng một mối liên kết mang năng lượng Aether nguy hiểm cho đến khi bạn có thể cắt đứt nó.
+
+tagGDX1EnemySkillD11=Aether Bao Phủ ^g[^fOverwhelming Aether^g]{^-}
+tagGDX1EnemySkillD11_Desc=Một khối pha lê Aether phát ra năng lượng Aether, gây hại cho những kẻ không thể kháng chịu được nó.
+
+tagGDX1EnemySkillD12=Vũng Máu ^g[^fCrimson Pool^g]{^-}
+tagGDX1EnemySkillD12_Desc=Máu độc phún lên từ dưới chân bạn và gây sát thương. Kubacabra dường như rất thoải mái khi đứng trên nó.
+
+tagGDX1EnemySkillD13=Hào Quang Đau Đớn ^g[^fAura of Agony^g]{^-}
+tagGDX1EnemySkillD13_Desc=Bóng tối phát ra từ Grava'Thul, thỉnh thoảng liên kết lại thành một vùng năng lượng hư không.
+
+tagGDX1EnemySkillD14=Sự Hiện Diện Thần Thánh ^g[^fCelestial Presence^g]{^-}
+tagGDX1EnemySkillD14_Desc=Sự hiện diện của một thế lực thần thánh nào đó đe doạ huỷ diệt sự sống của bạn.
+
+tagGDX1EnemySkillD15=Năng Lượng Aether Thuần Khiết ^g[^fAether Essence^g]{^-}
+tagGDX1EnemySkillD15_Desc=Năng lượng Aether hoạt động mạnh ở khu vực này, làm tổn thương và suy yếu sức kháng chịu của bạn.
+
+tagGDX1EnemySkillD16=Sự Hiện Diện Kinh Hoàng ^g[^fTerrifying Presence^g]{^-}
+tagGDX1EnemySkillD16_Desc=Một con mãnh thú gào thét gần đó, khiến bạn tràn đầy sự kinh hãi và kích động những sinh vật ở xung quanh.
+
+tagGDX1EnemySkillD17=Hoả Diệm Huyết ^g[^fBurning Blood^g]{^-}
+tagGDX1EnemySkillD17_Desc=Dòng máu cháy rực của Gargabol làm suy yếu khả năng kháng chịu của bạn.
+

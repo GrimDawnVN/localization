@@ -1,0 +1,228 @@
+# Achievement Groups
+
+achGroupAct1=Chương I
+achGroupAct2=Chương II
+achGroupAct3=Chương III
+achGroupChallenges=Thử Thách
+achGroupCharacter=Nhân Vật
+achGroupMonsters=Quái Vật
+achGroupStory=Cốt Truyện
+achGroupWorld=Thế Giới
+
+# Achievements
+
+ach001Title=Kẻ Diệt Quỷ
+ach001Desc=^w[Tên tiếng Anh: ^yMonster Slayer^w]{^-}{^n}Tiêu diệt 25 Quái Vật Anh Hùng (quái vật có ngôi sao trên đầu).
+
+ach002Title=Anh Hùng Diệt Quỷ
+ach002Desc=^w[Tên tiếng Anh: ^yHeroic Slayer^w]{^-}{^n}Tiêu diệt 100 Quái Vật Anh Hùng (quái vật có ngôi sao trên đầu).
+
+ach003Title=Huyền Thoại Diệt Quỷ
+ach003Desc=^w[Tên tiếng Anh: ^yLegendary Slayer^w]{^-}{^n}Tiêu diệt 1000 Quái Vật Anh Hùng (quái vật có ngôi sao trên đầu).
+
+ach004Title=Đại Kình Địch
+ach004Desc=^w[Tên tiếng Anh: ^yNemesis^w]{^-}{^n}Tiêu diệt một Đại Kình Địch ở Độ khó Cao Cấp hoặc Tối Thượng.
+
+ach005Title=Không Thể Ngăn Cản
+ach005Desc=^w[Tên tiếng Anh: ^yUnstoppable^w]{^-}{^n}Tiêu diệt 6 Đại Kình Địch ở Độ khó Cao Cấp hoặc Tối Thượng.
+
+ach006Title=Thanh Tẩy Thế Giới
+ach006Desc=^w[Tên tiếng Anh: ^yCleansing the World^w]{^-}{^n}Tiêu diệt 25000 quái vật trên lục địa Cairn.
+
+ach007Title=Thảm Sát Bùng Nổ
+ach007Desc=^w[Tên tiếng Anh: ^yA Wake of Carnage^w]{^-}{^n}Tiêu diệt 50000 quái vật trên lục địa Cairn.
+
+ach008Title=Biển Máu
+ach008Desc=^w[Tên tiếng Anh: ^yAn Ocean of Blood^w]{^-}{^n}Tiêu diệt 100000 quái vật trên lục địa Cairn.
+
+ach009Title=Bằng Hữu trong Ngày Tận Thế
+ach009Desc=^w[Tên tiếng Anh: ^yFriends in the Apocalypse^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với một phe bất kỳ.
+
+ach010Title=Tấm Gương của Xứ Cairn
+ach010Desc=^w[Tên tiếng Anh: ^yParagon of Cairn^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với 6 phe bất kỳ.
+
+ach011Title=Bầy Tôi của Empyrion
+ach011Desc=^w[Tên tiếng Anh: ^yServant of Empyrion^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với Kymon's Chosen.
+
+ach012Title=Tín Đồ của Uroboruuk
+ach012Desc=^w[Tên tiếng Anh: ^yFollower of Uroboruuk^w]{^-}{^n}Đạt mốc danh vọng Kính Phục với Hội Người Canh Giữ Cái Chết.
+
+ach013Title=Cái Kết của Sự Sa Đoạ
+ach013Desc=^w[Tên tiếng Anh: ^yThe End to Depravity^w]{^-}{^n}Giết Salazar, Lưỡi Đao của Ch'thon trong Thánh Đường Sa Đoạ.
+
+ach014Title=Bẻ Gãy Lưỡi Kiếm của Ch'thon
+ach014Desc=^w[Tên tiếng Anh: ^yShattering the Blade of Ch'thon^w]{^-}{^n}Giết Salazar, Lưỡi Đao của Ch'thon trong Thánh Đường Sa Đoạ ở Độ khó Tối Thượng.
+
+ach015Title=Hành Quyết Kẻ Hành Quyết
+ach015Desc=^w[Tên tiếng Anh: ^yThe Executioner Executed^w]{^-}{^n}Giết Alkamos, Lãnh Chúa Hành Quyết bên dưới Bậc Thang Thống Khổ.
+
+ach016Title=Chấm Dứt Sự Đau Khổ
+ach016Desc=^w[Tên tiếng Anh: ^yThe End of Torment^w]{^-}{^n}Giết Alkamos, Lãnh Chúa Hành Quyết bên dưới Bậc Thang Thống Khổ ở Độ khó Tối Thượng.
+
+ach017Title=Kẻ Hành Quyết Bất Tử
+ach017Desc=^w[Tên tiếng Anh: ^yImmortal Executioner^w]{^-}{^n}Slay Alkamos, Lãnh Chúa Hành Quyết bên dưới Bậc Thang Thống Khổ ở Chế độ Hardcore.
+
+ach018Title=Thực Thi Công Lý
+ach018Desc=^w[Tên tiếng Anh: ^yDelivering Justice^w]{^-}{^n}Tiêu diệt Cai Ngục Krieg bên trong Phòng Thí Nghiệm Bí Mật.
+
+ach019Title=Mối Nguy Cũ
+ach019Desc=^w[Tên tiếng Anh: ^yAn Old Threat^w]{^-}{^n}Giết Darius Cronley.
+
+ach020Title=Nợ Máu Trả Bằng Máu
+ach020Desc=^w[Tên tiếng Anh: ^yBlood for Blood^w]{^-}{^n}Giết Karroz, Dấu Ấn của Ch'thon.
+
+ach021Title=Tai Ương Xứ Cairn
+ach021Desc=^w[Tên tiếng Anh: ^yThe Bane of Cairn^w]{^-}{^n}Giết Loghorrean, Tiếng Nói của Ch'thon.
+
+ach022Title=Dập Tắt Chiến Hỏa
+ach022Desc=^w[Tên tiếng Anh: ^yCleansing the Conflagration^w]{^-}{^n}Tiêu diệt Sứ Giả của Lửa tại Chiến Hỏa Bình Nguyên.
+
+ach023Title=Sợ Chi Đốm Lửa Tàn
+ach023Desc=^w[Tên tiếng Anh: ^yNot Afraid of a Little Fire^w]{^-}{^n}Tiêu diệt Sứ Giả của Lửa tại Chiến Hỏa Bình Nguyên ở Độ khó Tối Thượng.
+
+ach024Title=Mổ Bụng Kẻ Mổ Bụng
+ach024Desc=^w[Tên tiếng Anh: ^yGutting Gutworm^w]{^-}{^n}Giết Gutworm trong Vũng Kẻ Buôn Lậu.
+
+ach025Title=Ngươi Thật Gan Dạ!
+ach025Desc=^w[Tên tiếng Anh: ^yYou've Got Guts^w]{^-}{^n}Giết Gutworm trong Vũng Kẻ Buôn Lậu ở Độ khó Tối Thượng.
+
+ach026Title=Sửa Chữa Là Nghề Của Nàng
+ach026Desc=^w[Tên tiếng Anh: ^yTinkering is Her Specialty^w]{^-}{^n}Cứu Darlet ở Burrwitch.
+
+ach027Title=Bằng thanh búa Malleum Menhir
+ach027Desc=^w[Tên tiếng Anh: ^yBy the Malleum Menhir^w]{^-}{^n}Nhận sự giúp đỡ từ một Thợ Rèn.
+
+ach028Title=Hết Súp Rồi
+ach028Desc=^w[Tên tiếng Anh: ^yNo Soup for You^w]{^-}{^n}Cứu Ulgrim ở Ngoại vi Burrwitch.
+
+ach029Title=Nghệ Nhân Tập Sự
+ach029Desc=^w[Tên tiếng Anh: ^yApprentice Crafter^w]{^-}{^n}Chế tạo 10 món đồ.
+
+ach030Title=Nghệ Nhân Thành Thạo
+ach030Desc=^w[Tên tiếng Anh: ^yExpert Crafter^w]{^-}{^n}Chế tạo 100 món đồ.
+
+ach031Title=Nghệ Nhân Lão Luyện
+ach031Desc=^w[Tên tiếng Anh: ^yMaster Crafter^w]{^-}{^n}Chế tạo 1000 món đồ.
+
+ach032Title=Di Vật Từ Quá Khứ
+ach032Desc=^w[Tên tiếng Anh: ^yRelics from the Past^w]{^-}{^n}Chế tạo 1 Thánh Vật.
+
+ach033Title=Quyền Năng Siêu Việt
+ach033Desc=^w[Tên tiếng Anh: ^yTranscendent Power^w]{^-}{^n}Chế tạo 1 Thánh Vật Siêu Việt.
+
+ach034Title=Quyền Năng Thần Thánh
+ach034Desc=^w[Tên tiếng Anh: ^yMythic Power^w]{^-}{^n}Chế tạo 1 Thánh Vật Thần Thoại.
+
+ach035Title=Nhà Thám Hiểm Trẻ
+ach035Desc=^w[Tên tiếng Anh: ^yJunior Explorer^w]{^-}{^n}Mở 10 Rương Chỉ-Mở-Một-Lần.
+
+ach036Title=Chiến Lợi Phẩm Dành Cho Những Người Ưa Tìm Tòi
+ach036Desc=^w[Tên tiếng Anh: ^yTo the Explorer Go the Spoils^w]{^-}{^n}Mở 20 Rương Chỉ-Mở-Một-Lần.
+
+ach037Title=Truy Tìm Những Vì Sao
+ach037Desc=^w[Tên tiếng Anh: ^ySeeking the Stars^w]{^-}{^n}Phục dựng 10 Miếu Thờ.
+
+ach038Title=Con Chiên Đích Thực
+ach038Desc=^w[Tên tiếng Anh: ^yTrue Devotion^w]{^-}{^n}Phục dựng 50 Miếu Thờ.
+
+ach039Title=Người Sống Sót
+ach039Desc=^w[Tên tiếng Anh: ^ySurvivor^w]{^-}{^n}Đạt Cấp 10.
+
+ach040Title=Nhà Vô Địch
+ach040Desc=^w[Tên tiếng Anh: ^yChampion^w]{^-}{^n}Đạt Cấp 35.
+
+ach041Title=Anh Hùng
+ach041Desc=^w[Tên tiếng Anh: ^yHero^w]{^-}{^n}Đạt Cấp 50.
+
+ach042Title=Huyền Thoại
+ach042Desc=^w[Tên tiếng Anh: ^yLegend^w]{^-}{^n}Đạt Cấp 85.
+
+ach043Title=Huyền Thoại Bất Diệt
+ach043Desc=^w[Tên tiếng Anh: ^yImmortal Legend^w]{^-}{^n}Đạt Cấp 85 ở Chế độ Hardcore.
+
+ach044Title=Vị Cứu Tinh của Cairn
+ach044Desc=^w[Tên tiếng Anh: ^ySavior of Cairn^w]{^-}{^n}Hoàn thành trò chơi ở Độ khó Tối Thượng.
+
+ach045Title=Vị Cứu Tinh Bất Diệt
+ach045Desc=^w[Tên tiếng Anh: ^yImmortal Savior^w]{^-}{^n}Hoàn thành trò chơi ở Độ khó Tối Thượng, Chế độ Hardcore.
+
+ach046Title=Quyết Định Khó Khăn
+ach046Desc=^w[Tên tiếng Anh: ^yDifficult Decisions^w]{^-}{^n}Giải quyết tình huống xảy ra ở Tân Cảng mà không dùng đến vũ lực.
+
+ach047Title=Không Có Ngoại Lệ
+ach047Desc=^w[Tên tiếng Anh: ^yNo Exceptions^w]{^-}{^n}Giết Anasteria.
+
+ach048Title=Con Người Kia, Ta Thật Không Ngờ!
+ach048Desc=^w[Tên tiếng Anh: ^yI Was Not Expecting You, Human^w]{^-}{^n}Giết Cai Ngục Krieg ở Chế độ Kỳ Cựu với một nhân vật chưa đạt đến Cấp 11.
+
+ach049Title=Chiếm Lại Burrwitch
+ach049Desc=^w[Tên tiếng Anh: ^ySecuring Burrwitch^w]{^-}{^n}Chiếm lại Cổng Dịch Chuyển Burrwitch ở Chế độ Kỳ Cựu.
+
+ach050Title=Ẩn trong Đường Mòn Ngập Nước
+ach050Desc=^w[Tên tiếng Anh: ^yHidden in the Flooded Passage^w]{^-}{^n}Khám phá thứ được che giấu đằng sau những khối đá sập xuống bên trong Con Đường Ngập Nước.
+
+ach051Title=Bí Mật của Cronley
+ach051Desc=^w[Tên tiếng Anh: ^yCronley's Secret^w]{^-}{^n}Khám phá bí mật của Darius Cronley.
+
+ach052Title=Gia Tài Chôn Giấu
+ach052Desc=^w[Tên tiếng Anh: ^yHidden Wealth^w]{^-}{^n}Tìm kho báu được chôn giấu trong các cánh đồng ở Homestead.
+
+ach053Title=Dưới Vực Sâu, Y Sống Trong Quên Lãng
+ach053Desc=^w[Tên tiếng Anh: ^yIn the Depths, He Lived Forgotten^w]{^-}{^n}Giết Gollus, cư dân dưới vực sâu.
+
+ach054Title=Căn Phòng Chết
+ach054Desc=^w[Tên tiếng Anh: ^yThe Death Room^w]{^-}{^n}Vượt qua Sảnh Linh Hồn.
+
+ach055Title=Để Tôi Nhặt Lại Những Bản Ghi Chép
+ach055Desc=^w[Tên tiếng Anh: ^yLet Me Gather My Notes^w]{^-}{^n}Sưu tập 5 Bản Ghi Chép.
+
+ach056Title=Nhà Sưu Tầm Bản Ghi Chép
+ach056Desc=^w[Tên tiếng Anh: ^yNote Collector^w]{^-}{^n}Sưu tập 20 Bản Ghi Chép.
+
+ach057Title=Người Giữ Tri Thức
+ach057Desc=^w[Tên tiếng Anh: ^yLorekeeper^w]{^-}{^n}Sưu tập 50 Bản Ghi Chép.
+
+ach058Title=Miền Tuyệt Vọng
+ach058Desc=^w[Tên tiếng Anh: ^yThe Fields of Despair^w]{^-}{^n}Vượt qua Tuyệt Vọng.
+
+ach059Title=Hủy Thiên Diệt Địa
+ach059Desc=^w[Tên tiếng Anh: ^yCelestial Bane^w]{^-}{^n}Đánh bại Hiện Thân của Mogdrogen..
+
+ach060Title=Shar'Zul Bị Lu Mờ
+ach060Desc=^w[Tên tiếng Anh: ^yShar'Zul Extinguished^w]{^-}{^n}Giết Shar'Zul, Sứ giả Hỗn Nguyên bên trong Thành Hỗn Nguyên.
+
+ach061Title=Toà Thành Bị Chinh Phục
+ach061Desc=^w[Tên tiếng Anh: ^yThe Bastion Conquered^w]{^-}{^n}Slay Shar'Zul, Giết Shar'Zul, Sứ giả Hỗn Nguyên bên trong Thành Hỗn Nguyên ở Độ khó Tối Thượng.
+
+ach062Title=Kẻ Chinh Phục Hỗn Nguyên Bất Diệt
+ach062Desc=^w[Tên tiếng Anh: ^yImmortal Conqueror of Chaos^w]{^-}{^n}Slay Shar'Zul, Giết Shar'Zul, Sứ giả Hỗn Nguyên bên trong Thành Hỗn Nguyên ở Chế độ Hardcore.
+
+ach063Title=Chiến Sĩ của Hội
+ach063Desc=^w[Tên tiếng Anh: ^yThe Order's Champion^w]{^-}{^n}Giết Lãnh Chúa Barthollem nhân danh Hội Canh Giữ Cái Chết ở Độ khó Tối Thượng.
+
+ach064Title=Người Được Kymon Chọn
+ach064Desc=^w[Tên tiếng Anh: ^yThe Chosen of Kymon^w]{^-}{^n}Giết Malkadarr nhân danh Kymon ở Độ khó Tối Thượng.
+
+ach065Title=Thanh Tẩy Vùng Đất Hiến Tế
+ach065Desc=^w[Tên tiếng Anh: ^yCleansing the Immolation^w]{^-}{^n}Tiêu diệt Sứ Giả Huỷ Diệt tại Vùng Đất Hiến Tế.
+
+ach066Title=Cấm Túc Sứ Giả
+ach066Desc=^w[Tên tiếng Anh: ^yGrounding the Herald^w]{^-}{^n}Tiêu diệt Sứ Giả Huỷ Diệt tại Vùng Đất Hiến Tế ở Độ khó Tối Thượng.
+
+ach067Title=Người Bảo Vệ Xứ Cairn
+ach067Desc=^w[Tên tiếng Anh: ^yDefender of Cairn^w]{^-}{^n}Hoàn thành trò chơi.
+
+ach068Title=Vô Địch Xứ Cairn
+ach068Desc=^w[Tên tiếng Anh: ^yChampion of Cairn^w]{^-}{^n}Hoàn thành trò chơi ở Độ khó Cao Cấp.
+
+ach069Title=Ngọn Lửa Valbury
+ach069Desc=^w[Tên tiếng Anh: ^yThe Flames of Valbury^w]{^-}{^n}Vượt qua Ngọn Lửa của Valbury.
+
+ach070Title=Chế Ngự Chúa Tể
+ach070Desc=^w[Tên tiếng Anh: ^yThe Overlord Vanquished^w]{^-}{^n}Tiêu Diệt Chúa Tể Van Aldritch tại Cảng Valbury.
+
+ach071Title=Báo Thù cho Cảng Valbury
+ach071Desc=^w[Tên tiếng Anh: ^yPort Valbury Avenged^w]{^-}{^n}Tiêu Diệt Chúa Tể Van Aldritch tại Cảng Valbury ở Độ khó Tối Thượng.
+
+ach072Title=Người Chinh Phục Cảng Valbury Bất Diệt
+ach072Desc=^w[Tên tiếng Anh: ^yImmortal Vanquisher of Valbury^w]{^-}{^n}Tiêu Diệt Lãnh Chúa Tối Cao Van Aldritch tại Cảng Valbury ở Chế độ Hardcore.

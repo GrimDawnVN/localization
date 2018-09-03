@@ -1,0 +1,15 @@
+Hành trình tìm kiếm Ulgrim
+Người cha thất lạc
+Tìm Garett Torven
+^r(Tên nhiệm vụ: Lost Father)^- ^n^nCha của Amala, Garett, đã bị thương quá nặng để tiếp tục và Amala buộc phải bỏ lại ông ta ở Rừng Âm U ^r[Gloomwald]^- để tìm kiếm sự giúp đỡ. Cuối cùng Amala tìm thấy đường đến Ngã Tư Ác Quỷ ^r[Devil's Crossing]^-, nhưng cha cô ấy vẫn ở ngoài đó. {^n}{^n}Amala hy vọng ông ta vẫn còn sống, nhưng có rất nhiều mối nguy hiểm ẩn bên trong khu rừng này. Cô ấy đã khẩn cầu bạn tìm kiếm Garett ở Rừng Âm U trên đường đến Đầm Ugden ^r[Ugdenbog]^-, phía bắc của vùng Trang Viên Burrwitch ^r[Burrwitch Estates]^-
+Tìm Garett Torven trong Rừng Âm U
+
+
+Quay lại thông báo cho Amala
+^r(Tên nhiệm vụ: Lost Father)^- ^n^nBạn tìm thấy cha của Amala và dịch chuyển ông ta an toàn đến Ngã Tư Ác Quỷ ^r[Devil's Crossing]^-. {^n}{^n}Nói chuyện với Amala trong Ngã Tư Ác Quỷ để xem làm thế nào ông ta có thể đi xa đến thế.
+Nói chuyện với Amala Torven ở Ngã Tư Ác Quỷ
+
+
+
+
+
