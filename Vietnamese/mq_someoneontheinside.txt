@@ -1,0 +1,32 @@
+Giành Lại Malmouth
+Ai Ở Bên Trong
+Hạ Cây Cầu Dẫn Vào Thành Phố
+^r(Tên nhiệm vụ: Someone on the Inside)^- ^n^nDường như có một nhóm nhỏ người tị nạn dẫn đầu bởi những người lính còn lại của thành phố để cố gắng kháng cự. Họ cố gắng cứu nhiều người sống sót nhất có thể nhưng họ không có đủ nhân lực. Vào Quận Candle ^r[Candle District]^- thông qua căn cứ của quân chống đối, tìm đường đi thông qua khu ổ chuột và hạ cây cầu xuống để Creed và Quân Đoàn Đen có thể hỗ trợ giành lại Malmouth. 
+
+
+
+
+Vào Quận Nến và Hạ Cây Cầu của Thành Phố xuống
+
+
+
+Nói chuyện với Creed{^n}
+^r(Tên nhiệm vụ: Someone on the Inside)^- ^n^nVới việc cây cầu được hạ xuống, Quân Đoàn Đen có thể tiến vào Malmouth và hỗ trợ quân kháng chiến. Báo cáo lại cho Thanh tra Creed gần cổng dịch chuyển nằm cách một đoạn so với cây cầu.
+
+Nói chuyện với Thanh tra Creed tại Trạm Điều khiển Cầu Malmouth
+
+Gặp gỡ và Chào hỏi Quân Kháng Chiến
+^r(Tên nhiệm vụ: Someone on the Inside)^- ^n^nThanh tra Creed muốn nói chuyện với lãnh đạo quân kháng chiến để tìm hiểu chuyện gì đang xảy ra với thành phố và tìm cách giúp đỡ. Gặp họ tại cống nước thành phố ở Căn cứ Quân Kháng chiến ^r[Resistance Hideout]^-.
+
+
+
+
+Gặp Creed và Korinia ở Căn cứ dưới Cống ngầm
+
+
+
+
+
+
+
+

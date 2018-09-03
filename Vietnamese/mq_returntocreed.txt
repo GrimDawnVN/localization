@@ -1,0 +1,9 @@
+Hành trình đến Malmouth
+Gặp lại Thanh tra Creed
+Nói chuyện với Creed
+^r(Tên nhiệm vụ: Return to Inquisitor Creed)^- ^n^nThanh Tra Creed có thể có một số tin tức liên quan đến tình hình của Ulgrim.{^n}{^n}Hãy nói chuyện với anh ta ngay lập tức.
+Nói chuyện với Thanh tra Creed ở Pháo đài Ikon ^r[Fort Ikon]^-
+
+
+
+

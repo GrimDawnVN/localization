@@ -1,0 +1,28 @@
+Giành Lại Malmouth
+Malmouth, Thành phố Đỗ nát
+Những Cánh Cổng của Malmouth
+^r(Tên nhiệm vụ: Malmouth, the Fallen City)^- ^n^nTình trạng của Ulgrim vẫn chưa sẵn sàng để di chuyển nhưng bạn cần phải đến Thành phố Malmouth. Tìm đường băng qua ngoại vi Malmouth và tiến vào Thành phố Malmouth ở hướng Bắc. Sẽ có một cổng dịch chuyển ở đó, dọn sách mối nguy hiểm xung quanh và bảo đảm an toàn nơi đó. 
+Bảo vệ cổng dịch chuyển bên ngoài Malmouth
+
+Nói chuyện với Ulgrim
+^r(Tên nhiệm vụ: Tip of the Spear)^- ^n^nCổng dịch chuyển bên ngoài Malmouth đã an toàn nhưng cây cầu dẫn vào thành phố chỉ có thể mở từ phía bên kia con sông. Bạn cần tìm đường khác để đi vào thành phố. Nói với Ulgrim và xem anh ấy có biết con đường nào khác không. 
+
+
+
+Nói chuyện với Ulgrim ở bên ngoài Malmouth
+
+Những Người Sống Sót
+^r(Tên nhiệm vụ: Malmouth, the Fallen City)^- ^n^nUlgrim đề nghị dùng các cống ngầm để đi vào thành phố. Bên dưới con sông gần cây cầu là một đường cống thoát nước dẫn vào bên trong thành phố Malmouth. Trước sự kiện Grim Dawn, con đường này được bọn buôn lậu dùng để vận chuyển ra vào Quận Nến ^r[Candle District]^-. Dùng đường cống để đi vào thành phố và tìm những người sống sót có thể họ sẽ biết chuyện gì xảy ra đằng sau bức tường đó. 
+Vào Cống ngầm Malmouth và tìm những người sống sót
+
+Báo cáo với Ulgrim
+^r(Tên nhiệm vụ: Malmouth, the Fallen City)^- ^n^nSau khi truy tìm đường cống bạn có đi qua một nhóm người tị nạn. Họ đang ở trong một trạm bơm cũ để trốn khỏi sự lùng sục của bọn quái đản trên mặt đất. Báo cáo lại cho Ulgrim ở bên ngoài trại tị nạn để bàn tính bước tiếp theo.
+
+
+
+Nói chuyện với Ulgrim ở Cống ngầm Malmouth
+
+
+
+
+

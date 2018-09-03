@@ -1,0 +1,22 @@
+Hành trình đến Malmouth
+Khế Ước Phù Thủy
+Tìm Ngôi Làng
+^r(Tên nhiệm vụ: A Witch's Bargain)^- ^n^nGarradia của Hội Phù Thủy Sư Đầm Ugden ^r[Coven of Ugdenbog]^- đã đồng ý điều kiện của bạn và sẽ giúp bạn tìm cách vượt qua Lửa Aether. Theo cách nào đó thì tìm Ulgrim có thể là chìa khóa để đi đến Malmouth...vượt qua cõi Hư Không.{^n}{^n}Nhưng trước khi cô ta giúp bạn, bạn cần phải làm một việc cho cô ấy: lấy Thần vật Đầm Ugden ^p[Ugdenbog Fetish]^- từ người dân ở một ngôi làng gần đây tên gọi là Barrowholm. Theo hướng Đông từ Nơi Trú ẩn của Hội ^r[Coven's Refuge]^- và băng qua đầm lầy, theo hướng Bắc, cho đến khi bạn thấy các ngôi nhà.
+Tìm Barrowholm
+
+Nói chuyện với Scorv
+^r(Tên nhiệm vụ: A Witch's Bargain)^- ^n^nBạn đã tìm ra ngồi làng mà Garradia yêu cầu.{^n}{^n}Có vẻ người đàn ông tên Scorv Egdenor là người quản lý khu này. Nói chuyện với ông ta ở Barrowholm về Thần vật Đầm Ugden ^r[Ugdenbog Fetish]^-.
+Nói chuyện với Scorv Egdenor ở Barrowholm
+
+Quay lại Garradia
+^r(Tên nhiệm vụ: A Witch's Bargain)^- ^n^nBạn đã nói chuyện với Scorv Egdenor ở Barrowholm. Bây giờ bạn phải lấy được Thần vật Đầm Ugden ^p[Ugdenbog Fetish]^- và mang nó đến cho Garradia tại Nơi Trú ẩn của Hội ^r[Coven's Refuge]^-.
+Lấy Thần vật Đầm Ugden từ Scorv Egdenor
+Mang Thần vật Đầm Ugden cho Garradia ở Nơi Trú ẩn của Hội
+
+
+
+
+
+
+
+

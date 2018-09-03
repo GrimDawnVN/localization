@@ -1,0 +1,34 @@
+Giành Lại Malmouth
+Nhà máy Sống
+Phá hoại
+^r(Tên nhiệm vụ: The Living Factory)^- ^n^nXưởng Thịt ^r[Fleshworks]^- của bọn Aetherial gây ảnh hưởng lên một phần rộng lớn của Malmouth, thật đáng sợ khi tất cả thứ này đều được tạo nên từ thịt người sống. Thật khó để tìm được lối vào, nhưng Ulgrim tin rằng nếu bạn phá hủy các ống thông hơi trên Đồi Vương miện ^r[Crown Hill]^-, thì Xưởng Thịt buộc phải mở cổng hoặc sẽ chịu hậu quả nặng nề. Sau khi bạn phá hủy các ống thông hơi, tiến vào thành trì của bọn Aetherial ở phía Bắc Đồi Vương miện.
+
+Phá hủy Ống Thông Hơi Phía Bắc
+Phá hủy Ống Thông Hơi Phía Đông
+Phá hủy Ống Thông Hơi Phía Nam
+
+
+Tiêu diệt Shaper of Flesh
+^r(Tên nhiệm vụ: The Living Factory)^- ^n^nXưởng Thịt ^r[Fleshworks]^- sẽ không còn phòng bị, bạn dễ dàng đi vào Thánh Đường Xác Thịt ^r[Sanctum of Flesh]^- và bắt bọn quái vật trả giá cho những tội ác mà chúng gây ra. Bạn cần tự xoay sở một chút để có thể mở khóa bên trong nhà máy.{^n}{^n}Một khi Thánh đường Xác thịt mở ra, bạn phải xử lý bất kẻ nào, hoặc bất cứ thứ gì chịu trách nhiệm cho những tội ác ở Malmouth, một lần và mãi mãi.
+
+
+
+
+Giết Kẻ Thủ Hộ Thánh Đường Xác Thịt
+Giết Kẻ Nặn Xác
+
+Báo cáo với Creed
+^r(Tên nhiệm vụ: The Living Factory)^- ^n^nBạn đã làm điều tưởng chừng như không thể bằng cách giết kẻ chủ mưu của việc xâm chiếm Malmouth. Báo cáo lại cho Thanh tra Creed tại Căn cứ Quân Kháng chiến về chiến thắng của bạn.
+
+
+
+Nói chuyện với Thanh tra Creed tại Căn cứ Quân Kháng chiến
+
+
+
+
+
+
+
+
+
